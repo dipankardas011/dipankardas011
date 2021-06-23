@@ -2,6 +2,13 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsonu10)
 
+<!-- [![GitHub contributors](https://img.shields.io/github/contributors/dipsonu10/badges.svg)](https://GitHub.com/dipsonu10/badges/graphs/contributors/) -->
+
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+
 - 👋 Hi, I’m @dipsonu10
 - 👀 operating system development, andriod app development, etc
 - 🌱 courently learning C++ after basics C, python, java, C#
