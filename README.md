@@ -1,3 +1,7 @@
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsonu10)
+
 - 👋 Hi, I’m @dipsonu10
 - 👀 operating system development, andriod app development, etc
 - 🌱 courently learning C++ after basics C, python, java, C#
