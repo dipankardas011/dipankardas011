@@ -10,8 +10,8 @@
 
 
 - 👋 Hi, I’m @dipsonu10
-- 👀 operating system development, andriod app development, etc
-- 🌱 courently learning C++ after basics C, python, java, C#
+- 👀 operating system development, andriod app development, C++, C, JAVA , .etc
+- 🌱 courently learning JSwing, Cloud Compute
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email id: dipsonu10@hotmail.com
 - my Linkedin Profile: https://www.linkedin.com/in/dipankar-das-1324b6206/
