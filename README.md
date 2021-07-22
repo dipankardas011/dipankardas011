@@ -11,10 +11,7 @@
 [<img align="left" alt="dipsonu10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 </br>
 
-<img align="center" alt="dipsonu10 Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&hide_border=true"/>
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsonu10)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true)
 <br/>
 <!-- [![GitHub contributors](https://img.shields.io/github/contributors/dipsonu10/badges.svg)](https://GitHub.com/dipsonu10/badges/graphs/contributors/) -->
 
