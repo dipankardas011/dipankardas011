@@ -4,12 +4,13 @@
 - 🌱 courently learning JSwing, Cloud Compute
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email id: dipsonu10@hotmail.com
-- my Linkedin Profile: https://www.linkedin.com/in/dipankar-das-1324b6206/
 
 ---
 ### Connect with me
 [<img align="left" alt="dipsonu10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="@DipankarDas011 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/twitter.svg"/>][twitter]
 </br>
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true)
 <br/>
@@ -22,3 +23,4 @@
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 [linkedin]: https://www.linkedin.com/in/dipankar-das-1324b6206/
+[twitter]: https://twitter.com/DipankarDas011
