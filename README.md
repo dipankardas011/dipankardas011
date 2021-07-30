@@ -1,26 +1,23 @@
 
 ## 👋 Hi, I’m Dipankar Das
-- 👀 operating system development, andriod app development, C++, C, JAVA , .etc
+- 👀 operating system development, andriod app development, C++, C, Java , Python, A.I. , Cloud Computing
 - 🌱 courently learning JSwing, Cloud Compute
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email id: dipsonu10@hotmail.com
 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 ---
 ### Connect with me
-[<img align="left" alt="dipsonu10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="@DipankarDas011 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="dipsonu10 | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="@DipankarDas011 | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
+</br>
 </br>
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true)
-<br/>
-<!-- [![GitHub contributors](https://img.shields.io/github/contributors/dipsonu10/badges.svg)](https://GitHub.com/dipsonu10/badges/graphs/contributors/) -->
-
-<!-- [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) -->
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 [linkedin]: https://www.linkedin.com/in/dipankar-das-1324b6206/
 [twitter]: https://twitter.com/DipankarDas011
