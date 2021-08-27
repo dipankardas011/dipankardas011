@@ -13,6 +13,8 @@
 </br>
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsonu10&layout=compact&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true)
 
