@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m Dipankar Das
 - 👀 operating system development, andriod app development, C++, C, Java , Python, A.I. , Cloud Computing
-- 🌱 courently learning JSwing, Cloud Compute
+- 🌱 courently learning JSwing, Cloud Compute, Windows SDK
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email id: dipsonu10@hotmail.com
 
@@ -13,7 +13,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsonu10&layout=compact&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsonu10&layout=compact&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true)
