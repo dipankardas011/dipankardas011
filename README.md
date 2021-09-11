@@ -1,20 +1,32 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Dipankar Das</h1>
+         
+<h4 align="center">
+  I’m a 2nd-year student pursuing B.Tech. in Computer Science from KiiT, Bhubaneswar
+</h4>
 
-## 👋 Hi, I’m Dipankar Das
+<p align="center">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipsonu10&theme=radical">
+</p>
+
+<p align = "center">
+
 - 👀 operating system development, andriod app development, C++, C, Java , Python, A.I. , Cloud Computing
 - 🌱 courently learning JSwing, Cloud Compute, Windows SDK
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email id: dipsonu10@hotmail.com
-
+</p>
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
----
+</p>
+
 ### Connect with me
 [<img align="left" alt="dipsonu10 | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="@DipankarDas011 | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
 </br>
 </br>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipsonu10&layout=compact&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true)
 
