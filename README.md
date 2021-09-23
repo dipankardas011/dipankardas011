@@ -13,10 +13,10 @@
 
 <p align = "center">
 
-- 👀 operating system development, andriod app development, C++, C, Java , Python, A.I. , Cloud Computing
-- 🌱 courently learning JSwing, Cloud Compute, Windows SDK
-- 💞️ I’m looking to collaborate on ...
-- 📫 my email id: dipsonu10@hotmail.com
+- 🎓 I’m an Open-Source enthusiast
+- 👨‍💻 I am passionate about Cloud Computing, Operating System, Machine Learning & I enjoy learning new things
+- 🌱 courently learning Data Structure & algorithm, Cloud Compute, Windows SDK
+         
 </p>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
