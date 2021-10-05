@@ -3,6 +3,8 @@
          height="45"
          width="45" />, I'm Dipankar Das</h1>
          
+
+
 <h4 align="center">
   I’m a 2nd-year student pursuing B.Tech. in Computer Science from KiiT, Bhubaneswar
 </h4>
@@ -22,14 +24,16 @@
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </p>
 
-### Connect with me
-[<img align="left" alt="dipsonu10 | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="@DipankarDas011 | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
+## Connect with me 
 
-</br>
-</br>
+[<img align="middle" alt="dipsonu10 | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="middle" alt="@DipankarDas011 | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true)
+<hr>
+
+<p align="center">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true">
+</p>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
