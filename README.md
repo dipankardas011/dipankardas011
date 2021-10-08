@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Dipankar Das</h1>
+         width="45" />, I&apos;m Dipankar Das</h1>
          
 
 
 <h4 align="center">
-  I’m a 2nd-year student pursuing B.Tech. in Computer Science from KiiT, Bhubaneswar
+  I&apos;m a 2nd-year student pursuing B.Tech. in Computer Science from KiiT, Bhubaneswar
 </h4>
 
 <p align="center">
