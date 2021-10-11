@@ -25,7 +25,7 @@
 </p>
 
 <hr>
-<h2 align="center"> Connect with me </h2> 
+<h2 align="center"> My Socials </h2> 
 
 
 <p align="center">
