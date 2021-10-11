@@ -31,6 +31,7 @@
 <p align="center">
          <a href="https://www.linkedin.com/in/dipankar-das-1324b6206/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkdin"> </a>
          <a href="https://twitter.com/DipankarDas011" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter"> </a>
+         <a href="https://www.youtube.com/channel/UCoLkuTgWPsQSeh0BhDFgXVw" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="Youtube"></a>
 </p>
 
 
