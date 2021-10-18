@@ -14,7 +14,5 @@ em {
 }
 
 button {
-    background-image: url("https://img.icons8.com/fluency/48/000000/linkedin.png");
-    /* <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> */
-    /* border-radius: 5px; */
+    border-radius: 5px;
 }
