@@ -2,6 +2,19 @@ h1 {
     font-family: "Playfair Display", sans-serif;
 }
 
+p {
+    font-family: 'Lora', sans-serif;
+}
+em {
+    font-family: 'Lora', serif;
+}
+
 .profile-image {
     border-radius: 50%;
+}
+
+button {
+    background-image: url("https://img.icons8.com/fluency/48/000000/linkedin.png");
+    /* <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> */
+    /* border-radius: 5px; */
 }
