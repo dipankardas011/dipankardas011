@@ -29,4 +29,47 @@ button {
     background-color: #aeecc8c4;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     align-items: center;
+    margin: auto;
+    width: fit-content;
+}
+#navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+
+    width: 100%;
+    background-color: #4eaa4e;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+a:link, a:visited {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+a:hover {
+    color:hotpink;
+}
+
+.search {
+    position: absolute;
+    top: 2px;
+    right: 40px;
+}
+
+.searchButton {
+    position: absolute;
+    top: 2px;
+    right: 0px;
+    color: #c91b1b;
+    background-color: rgb(147, 216, 193);
+    border-radius: 10%;
 }
