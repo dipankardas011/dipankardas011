@@ -9,6 +9,10 @@ h1 {
     font-size: 50px;
 }
 
+hr {
+    color: #f37272;
+}
+
 p {
     font-family: 'Lora', sans-serif;
 }
@@ -59,13 +63,13 @@ a:hover {
     color:hotpink;
 }
 
-.search {
+.Search {
     position: absolute;
     top: 2px;
     right: 40px;
 }
 
-.searchButton {
+.SearchButton {
     position: absolute;
     top: 2px;
     right: 0px;
