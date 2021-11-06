@@ -1,12 +1,13 @@
 :root {
     font-size: 12;
     color: #f37272;
-    background-color: #96e4b6c4;
+    background-color: #75ffafc4;
 }
 
 h1 {
     font-family: "Playfair Display", sans-serif;
     font-size: 50px;
+    border-bottom: 5px #f3bb72 dotted;
 }
 
 hr {
@@ -15,6 +16,7 @@ hr {
 
 p {
     font-family: 'Lora', sans-serif;
+    line-height: 1.2rem;
 }
 em {
     font-family: 'Lora', serif;
@@ -64,14 +66,14 @@ a:hover {
 }
 
 .Search {
-    position: absolute;
+    position: fixed;
     top: 2px;
     right: 40px;
 }
 
 .SearchButton {
-    position: absolute;
     top: 2px;
+    position: fixed;
     right: 0px;
     color: #c91b1b;
     background-color: rgb(147, 216, 193);
