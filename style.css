@@ -1,7 +1,7 @@
 :root {
     font-size: 12;
     color: #f37272;
-    background-color: #75ffafc4;
+    background-color: #ffffff;
 }
 
 h1 {
@@ -33,6 +33,7 @@ button {
 .boxContainer {
     border-radius: 10px;
     background-color: #aeecc8c4;
+    background-color: #ffffff;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     align-items: center;
     margin: auto;
