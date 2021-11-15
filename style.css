@@ -1,13 +1,15 @@
 :root {
     font-size: 12;
-    color: #f37272;
-    background-color: #e7dacd;
+    color: #000000;
+    background-color: #ffffff;
+    width: auto;
+    margin: 20px;
 }
 
 h1 {
     font-family: "Playfair Display", sans-serif;
     font-size: 50px;
-    border-bottom: 5px #f3bb72 dotted;
+    border-bottom: 5px #7ad3fc dotted;
 }
 
 hr {
@@ -24,6 +26,8 @@ em {
 
 .profile-image {
     border-radius: 50%;
+    float: left;
+    margin-right: 20px;
 }
 
 button {
@@ -32,11 +36,12 @@ button {
 
 .boxContainer {
     border-radius: 10px;
-    background-color: #aeecc8c4;
     background-color: #ffffff;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     align-items: center;
     margin: auto;
+    position: relative;
+    display: flex;
     width: fit-content;
 }
 #navbar {
@@ -45,7 +50,7 @@ button {
     left: 0px;
 
     width: 100%;
-    background-color: #4eaa4e;
+    background-color: #000000;
 }
 
 nav ul {
@@ -58,12 +63,13 @@ nav li {
     margin-right: 20px;
 }
 a:link, a:visited {
-    color: rebeccapurple;
+    color: rgb(170, 121, 219);
     font-weight: bold;
 }
 
 a:hover {
     color:hotpink;
+    text-decoration: none;
 }
 
 .Search {
@@ -76,7 +82,20 @@ a:hover {
     top: 2px;
     position: fixed;
     right: 0px;
-    color: #c91b1b;
-    background-color: rgb(147, 216, 193);
+    color: #ffffff;
+    background-color: rgb(52, 53, 52);
     border-radius: 10%;
+}
+
+dt{
+    background-color: #000000;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
 }
