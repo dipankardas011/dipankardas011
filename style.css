@@ -7,7 +7,7 @@
 }
 
 h1 {
-    font-family: "Playfair Display", sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 50px;
     border-bottom: 5px #7ad3fc dotted;
 }
@@ -17,11 +17,12 @@ hr {
 }
 
 p {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Playfair Display', serif;
     line-height: 1.2rem;
 }
 em {
-    font-family: 'Lora', serif;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
 }
 
 .profile-image {
