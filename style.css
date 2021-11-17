@@ -1,14 +1,15 @@
 :root {
     font-size: 12;
-    color: #000000;
-    background-color: #ffffff;
+    color: hotpink;
+    background-color: #120914;
     width: auto;
     margin: 20px;
+    font-family: 'Playfair Display', Arial, Helvetica, sans-serif, serif;
 }
 
 h1 {
-    font-family: 'Playfair Display', serif;
     font-size: 50px;
+    color: #f37272;
     border-bottom: 5px #7ad3fc dotted;
 }
 
@@ -17,13 +18,9 @@ hr {
 }
 
 p {
-    font-family: 'Playfair Display', serif;
     line-height: 1.2rem;
 }
-em {
-    font-family: 'Playfair Display', serif;
-    font-style: italic;
-}
+
 
 .profile-image {
     border-radius: 50%;
@@ -89,14 +86,21 @@ a:hover {
 }
 
 dt{
-    background-color: #000000;
+    background-color: hotpink;
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
     font-weight: bold;
-    color: #ffffff;
+    color: rgb(99, 27, 172);
 }
 
 ul {
     list-style-type: none;
+}
+
+.languages {
+    display: flex;
+}
+.languages li{
+    padding: 0.5em 1em;
 }
