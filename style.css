@@ -11,6 +11,7 @@ h1 {
     font-size: 50px;
     color: #f37272;
     border-bottom: 5px #7ad3fc dotted;
+    text-shadow: 2px 3px 2px #582263;
 }
 
 h2 {
@@ -25,6 +26,7 @@ hr {
     border-radius: 50%;
     float: left;
     margin-right: 20px;
+    box-shadow: 0 10px 10px #4d2058, 0 6px 6px #33173a;
 }
 
 .cleared {
@@ -56,7 +58,7 @@ hr {
 
 nav ul {
     margin: 2px;
-    padding: 5px 0px 5px 30px;
+    padding: 1em 2em 1em 4em;
 }
 
 nav li {
@@ -104,8 +106,15 @@ ul {
     .languages li{
         padding: 0.5em 1em;
     }
+    nav li {
+        display: inline;
+        margin: 1em 3.5em;
+    }
 }
 
 @media screen and (min-width: 70em) {
-
+    nav li {
+        display: inline;
+        margin: 1em 5em;
+    }
 }
