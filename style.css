@@ -101,7 +101,7 @@ ul {
 
 
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 45em) {
     .languages {
         display: flex;
     }
