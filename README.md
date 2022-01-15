@@ -16,12 +16,12 @@
 <p align = "center">
 
 - 🎓 I’m an Open-Source enthusiast
-- 👨‍💻 I am passionate about Cloud Computing, Operating System, Machine Learning & I enjoy learning new things
-- 🌱 courently learning Data Structure & algorithm, Cloud Compute, Web Development
+- 👨‍💻 I am passionate about Cloud Computing & DevOps, Operating System, Machine Learning & I enjoy learning new things
+- 🌱 courently learning Cloud Native Products (Docker, Kubernetes), Javascript, Golang
          
 </p>
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="./img/C.png" width="100px"/>    <img src="./img/Cplusplus.png" width="85px"/>  <img src="./img/Java.png" width="80px"/>    <img src="./img/Python.png" width="80px"/>    <img src="./img/Docker.png" width="150px"/>    <img src="./img/Html.png" width="100px"/>
 </p>
 
 <hr>
