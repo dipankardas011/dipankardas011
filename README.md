@@ -17,7 +17,7 @@
 
 - 🎓 I’m an Open-Source enthusiast
 - 👨‍💻 I am passionate about Cloud Computing & DevOps, Operating System, Machine Learning & I enjoy learning new things
-- 🌱 courently learning Cloud Native Products (Docker, Kubernetes), Javascript, Golang
+- 🌱 Currently learning Cloud Native Products (Docker, Kubernetes), Javascript, Golang
          
 </p>
 <p align="center">
