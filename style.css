@@ -36,10 +36,12 @@ hr {
 }
 
 .socials {
-    display: grid;
+    /* display: grid;
     grid-template-columns: 1fr 1fr;
     padding-bottom: 20px;
-    column-gap: 10px;
+    column-gap: 10px; */
+    display: flex;
+    gap: 1rem;
 }
 
 .boxContainer {
