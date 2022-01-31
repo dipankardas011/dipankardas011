@@ -10,7 +10,7 @@
 </h4>
 
 <p align="center">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipsonu10&theme=radical&hide_border=true">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankardas011&theme=radical&hide_border=true">
 </p>
 
 <p align = "center">
@@ -36,7 +36,7 @@
 
 
 <p align="center">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true&theme=radical&hide_border=true">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dipankardas011&show_icons=true&theme=radical&hide_border=true">
 </p>
 
 
