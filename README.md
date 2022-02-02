@@ -6,19 +6,19 @@
 
 
 <h4 align="center">
-  I&apos;m a 2nd-year student pursuing B.Tech. in Computer Science from KiiT, Bhubaneswar
+  A 2nd-year B.Tech. Computer Science student from KiiT, Bhubaneswar
 </h4>
 
 <p align="center">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankardas011&theme=radical&hide_border=true">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankardas011&theme=dracula&hide_border=true">
 </p>
 
 <p align = "center">
 
 - 🎓 I’m an Open-Source enthusiast
-- 👨‍💻 I am passionate about Cloud Computing & DevOps, Operating System, Machine Learning & I enjoy learning new things
+- 💻 I am passionate about DevOps, Operating System, Cloud Infrastructure in general & I enjoy learning new things
 - 🌱 Currently learning Cloud Native Products (Docker, Kubernetes), Javascript, Golang
-         
+
 </p>
 <p align="center">
 <img src="./img/C.png" width="50px"/>    <img src="./img/Cplusplus.png" width="45px"/>  <img src="./img/Java.png" width="50px"/>    <img src="./img/Python.png" width="50px"/>    <img src="./img/Docker.png" width="100px"/>    <img src="./img/Html.png" width="50px"/>
@@ -32,13 +32,12 @@
          <a href="https://www.linkedin.com/in/dipankar-das-1324b6206/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkdin"> </a>
          <a href="https://twitter.com/DipankarDas011" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter"> </a>
          <a href="https://www.youtube.com/channel/UCoLkuTgWPsQSeh0BhDFgXVw" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="Youtube"></a>
+         <a href="https://dipankardas011.hashnode.dev/" target="_blank"> <img src="./img/brand-icon.png" alt="hashnode" width="45px"></a>
 </p>
 
 
 <p align="center">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dipankardas011&show_icons=true&theme=radical&hide_border=true">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dipankardas011&show_icons=true&theme=dracula&hide_border=true">
 </p>
-
-
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
