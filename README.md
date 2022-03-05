@@ -2,7 +2,6 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I&apos;m Dipankar Das</h1>
-         
 
 
 <h4 align="center">
