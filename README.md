@@ -18,13 +18,19 @@
 - 💻 I am passionate about DevOps, Operating System, Cloud Infrastructure in general & I enjoy learning new things
 - 🌱 Currently learning Cloud Native Products (Docker, Kubernetes), Javascript, Golang
 
+
 </p>
+<hr>
+
+<h2 align="center"> Tech Stack </h2>
+
+
 <p align="center">
-<img src="./img/C.png" width="50px"/>    <img src="./img/Cplusplus.png" width="45px"/>  <img src="./img/Java.png" width="50px"/>    <img src="./img/Python.png" width="50px"/>    <img src="./img/Docker.png" width="100px"/>    <img src="./img/Html.png" width="50px"/>
+<img src="./img/C.png" width="45px"/>    <img src="./img/Cplusplus.png" width="40px"/>  <img src="./img/Java.png" width="40px"/>    <img src="./img/Python.png" width="40px"/>    <img src="./img/Docker.png" width="80px"/>    <img src="./img/Html.png" width="50px"/>
 </p>
 
 <hr>
-<h2 align="center"> My Socials </h2> 
+<h2 align="center"> My Socials </h2>
 
 
 <p align="center">
@@ -33,6 +39,7 @@
          <a href="https://www.youtube.com/channel/UCoLkuTgWPsQSeh0BhDFgXVw" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="Youtube"></a>
          <a href="https://dipankardas011.hashnode.dev/" target="_blank"> <img src="./img/brand-icon.png" alt="hashnode" width="45px"></a>
 </p>
+<hr>
 
 
 <p align="center">
