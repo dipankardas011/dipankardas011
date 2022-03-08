@@ -29,7 +29,6 @@
 <img src="./img/C.png" width="45px"/>    <img src="./img/Cplusplus.png" width="40px"/>  <img src="./img/Java.png" width="40px"/>    <img src="./img/Python.png" width="40px"/>    <img src="./img/Docker.png" width="80px"/>    <img src="./img/Html.png" width="50px"/>
 </p>
 
-<hr>
 <h2 align="center"> My Socials </h2>
 
 
