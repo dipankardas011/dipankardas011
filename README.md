@@ -9,7 +9,7 @@
 </h4>
 
 <p align="center">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankardas011&theme=dracula&hide_border=true">
+<img alt= "stats card" height="auto" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankardas011&theme=dracula&hide_border=true"> &emsp; <img height="auto" width="250px" src="https://github.com/dipankardas011/dipankardas011/blob/main/img/Anainfante865%20I%20will%20a%20melody%20lofi%20hip%20hop%20whit%20video%20for%20$5%20on%20fiverr_com.jpg?raw=true">
 </p>
 
 <p align = "center">
