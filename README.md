@@ -15,8 +15,8 @@
 <p align = "center">
 
 - 🎓 I’m an Open-Source enthusiast
-- 💻 I am passionate about DevOps, Operating System, Cloud Infrastructure in general & I enjoy learning new things
-- 🌱 Currently learning Cloud Native Products (Docker, Kubernetes), Javascript, Golang
+- 💻 I am passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
+- 🌱 Currently learning Docker, Kubernetes, Datree, Kubescape, Javascript, Golang
 
 
 </p>
