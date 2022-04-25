@@ -32,8 +32,12 @@
 
 ## 📈 Stats
 <hr>
+<img src="./header.svg">
 
 [![Dipankar Activity Graph](https://activity-graph.herokuapp.com/graph?username=dipankardas011&theme=dracula)](https://github.com/dipankardas011/github-readme-activity-graph)
+
+<img src="./achievements.svg">
+<img src="./iso_calender.svg">
 
 <hr>
 
@@ -95,6 +99,8 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<img src="./github-metrics.svg">
+<br>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
