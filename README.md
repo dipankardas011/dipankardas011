@@ -21,7 +21,7 @@
 
 - 🎓 I’m an Open-Source enthusiast
 - 💻 I am passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
-- 🌱 Currently learning Docker, Kubernetes, Datree, Kubescape, Javascript, Golang
+- 🌱 Open Source, Applying the Concepts, and Blogging
 </p>
 
 [![Twitter](https://img.shields.io/badge/DipankarDas011-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DipankarDas011)
