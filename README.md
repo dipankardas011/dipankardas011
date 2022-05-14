@@ -100,25 +100,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## **CNCF products used so far**
-<img src="https://landscape.cncf.io/logos/jenkins.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/git-hub-actions.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/helm.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/monokle.svg" height="60px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/gradle-build-tool.svg" height="60px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/argo.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/amazon-elastic-kubernetes-service-distro-amazon-eks-d.svg" height="60px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/azure-kubernetes-service-aks.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/kube-sphere-qke.svg" height="70px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/microsoft-aks-engine-for-azure-stack.svg" height="50px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/minikube.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/heroku.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/prometheus.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/grafana.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/kubernetes.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/trivy.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/azure-registry.svg" height="80px" width="auto"/>
-<img src="https://landscape.cncf.io/logos/terraform.svg" height="80px" width="auto"/>
-<br>
+<img src="https://landscape.cncf.io/logos/jenkins.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/git-hub-actions.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/helm.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/monokle.svg" height="60px" width="auto"/>   <img src="https://landscape.cncf.io/logos/gradle-build-tool.svg" height="60px" width="auto"/>   <img src="https://landscape.cncf.io/logos/argo.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/amazon-elastic-kubernetes-service-distro-amazon-eks-d.svg" height="60px" width="auto"/>   <img src="https://landscape.cncf.io/logos/azure-kubernetes-service-aks.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/kube-sphere-qke.svg" height="70px" width="auto"/>   <img src="https://landscape.cncf.io/logos/microsoft-aks-engine-for-azure-stack.svg" height="50px" width="auto"/>   <img src="https://landscape.cncf.io/logos/minikube.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/heroku.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/prometheus.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/grafana.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/kubernetes.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/trivy.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/azure-registry.svg" height="80px" width="auto"/>   <img src="https://landscape.cncf.io/logos/terraform.svg" height="80px" width="auto"/>   <br>
 <img src="./github-metrics.svg"/>
 <br>
 
