@@ -85,7 +85,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 <!-- ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) -->
 <!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
-<!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) -->
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### *OS Used*
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -99,7 +99,27 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<img src="./github-metrics.svg">
+## **CNCF products used so far**
+<img src="https://landscape.cncf.io/logos/jenkins.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/git-hub-actions.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/helm.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/monokle.svg" height="60px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/gradle-build-tool.svg" height="60px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/argo.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/amazon-elastic-kubernetes-service-distro-amazon-eks-d.svg" height="60px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/azure-kubernetes-service-aks.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/kube-sphere-qke.svg" height="70px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/microsoft-aks-engine-for-azure-stack.svg" height="50px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/minikube.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/heroku.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/prometheus.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/grafana.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/kubernetes.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/trivy.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/azure-registry.svg" height="80px" width="auto"/>
+<img src="https://landscape.cncf.io/logos/terraform.svg" height="80px" width="auto"/>
+<br>
+<img src="./github-metrics.svg"/>
 <br>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
