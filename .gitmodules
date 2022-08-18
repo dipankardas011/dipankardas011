@@ -1,0 +1,6 @@
+[submodule "docs/themes/terminal"]
+	path = docs/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "docs/themes/hugo-theme-gruvbox"]
+	path = docs/themes/hugo-theme-gruvbox
+	url = https://github.com/schnerring/hugo-theme-gruvbox.git
