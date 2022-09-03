@@ -5,7 +5,7 @@
 
 
 <h4 align="center">
-  A 3rd-year B.Tech. Computer Science student from KiiT, Bhubaneswar
+  Kubesimplify Ambassador, CNCF project contributor, 3rd-year B.Tech. Computer Science student from KiiT, Bhubaneswar
 </h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankardas011&label=Profile%20views&color=0e75b6&style=flat" alt="dipankardas011" /> </p>
@@ -19,7 +19,7 @@
 
 <p align = "center">
 
-- 🎓 I’m an Open-Source enthusiast
+- 🎓 I’m an Open-Source and Blogging enthusiast
 - 💻 I am passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
 - 🌱 Open Source, Applying the Concepts, and Blogging
 </p>
