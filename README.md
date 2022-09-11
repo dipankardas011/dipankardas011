@@ -22,6 +22,7 @@
 - 🎓 I’m an Open-Source and Blogging enthusiast
 - 💻 I am passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
 - 🌱 Open Source, Applying the Concepts, and Blogging
+- 📃 [Resume Link(Latest)](https://github.com/dipankardas011/dipankardas011/blob/htmlSRC/Resume.pdf)
 </p>
 
 [![Twitter](https://img.shields.io/badge/DipankarDas011-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DipankarDas011)
@@ -29,6 +30,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dipsonu10@hotmail.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoLkuTgWPsQSeh0BhDFgXVw)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipankardas011.hashnode.dev/)
+
 
 ## 📈 Stats
 <hr>
