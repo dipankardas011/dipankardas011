@@ -43,6 +43,20 @@
 
 <hr>
 
+
+# Projects
+projects on which I worked on
+
+Name | Link
+-|-
+PDF-Editor | <a href="https://github.com/dipankardas011/PDF-Editor" target="_blank"><img src="https://github.com/dipankardas011/PDF-Editor/blob/main/coverpage.png" alt="PDF-Editor-CoverPage" style="height: auto!important;width: 400px !important;"/> </a>
+Airport Booking | <a href="https://github.com/dipankardas011/AirportBooking"><img src="https://github.com/dipankardas011/AirportBooking/blob/main/CoverPage.jpg" style="height: auto!important;width: 400px !important;"/></a>
+ksctl | <a href="https://github.com/kubesimplify/ksctl"><img src="https://github.com/kubesimplify/ksctl/blob/main/img/ksctl-dark.png" style="height: auto!important;width: 400px !important;"/></a>
+Weather App | <a href="https://github.com/dipankardas011/Weather-App"><img src="https://github.com/dipankardas011/Weather-App/blob/main/CoverPage.jpeg" style="height: auto!important;width: 400px !important;"/></a>
+Efficient Client-Server | <a href="https://github.com/dipankardas011/Efficient-client-server"><img src="https://user-images.githubusercontent.com/65275144/197322418-3a48b8fc-723f-4b7c-b2fd-535a69f50ec5.png" style="height: auto!important;width: 400px !important;"/></a>
+
+
+
 ## **Devlopment Tools**
 
 ### *Languages & Database*
@@ -107,17 +121,6 @@
 
 <img src="./github-metrics.svg"/>
 <br>
-
-# Projects
-projects on which I worked on
-
-Name | Link
--|-
-PDF-Editor | <a href="https://github.com/dipankardas011/PDF-Editor" target="_blank"><img src="https://github.com/dipankardas011/PDF-Editor/blob/main/coverpage.png" alt="PDF-Editor-CoverPage" style="height: auto!important;width: 500px !important;"/> </a>
-Airport Booking | <a href="https://github.com/dipankardas011/AirportBooking"><img src="https://github.com/dipankardas011/AirportBooking/blob/main/CoverPage.jpg" style="height: auto!important;width: 500px !important;"/></a>
-ksctl | <a href="https://github.com/kubesimplify/ksctl"><img src="https://github.com/kubesimplify/ksctl/blob/main/img/ksctl-dark.png" style="height: auto!important;width: 500px !important;"/></a>
-Weather App | <a href="https://github.com/dipankardas011/Weather-App"><img src="https://github.com/dipankardas011/Weather-App/blob/main/CoverPage.jpeg" style="height: auto!important;width: 500px !important;"/></a>
-Efficient Client-Server | <a href="https://github.com/dipankardas011/Efficient-client-server"><img src="https://user-images.githubusercontent.com/65275144/197322418-3a48b8fc-723f-4b7c-b2fd-535a69f50ec5.png" style="height: auto!important;width: 500px !important;"/></a>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
