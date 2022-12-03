@@ -44,18 +44,17 @@
 <hr>
 
 
-# Projects
-projects on which I worked on
+# Projects 👨‍💻 ☸️ 🐳
 
-Name | Link
+Name&Link | Thumbnail
 -|-
-ksctl | <a href="https://github.com/kubesimplify/ksctl"><img src="https://github.com/kubesimplify/ksctl/blob/main/img/ksctl-dark.png" style="height: auto!important;width: 400px !important;" alt="github link"/></a>
-PDF-Editor | <a href="https://github.com/dipankardas011/PDF-Editor" target="_blank"><img src="https://github.com/dipankardas011/PDF-Editor/blob/main/coverpage.png" alt="github link" style="height: auto!important;width: 400px !important;"/> </a>
-Efficient Client-Server | <a href="https://github.com/dipankardas011/Efficient-client-server"><img src="https://user-images.githubusercontent.com/65275144/197322418-3a48b8fc-723f-4b7c-b2fd-535a69f50ec5.png" style="height: auto!important;width: 400px !important;" alt="github link"/></a>
-Weather App | <a href="https://github.com/dipankardas011/Weather-App"><img src="https://github.com/dipankardas011/Weather-App/blob/main/CoverPage.jpeg" style="height: auto!important;width: 400px !important;" alt="github link"/></a>
-Airport Booking | <a href="https://github.com/dipankardas011/AirportBooking"><img src="https://github.com/dipankardas011/AirportBooking/blob/main/CoverPage.jpg" style="height: auto!important;width: 400px !important;" alt="github link"/></a>
+[ksctl](https://github.com/kubesimplify/ksctl) | <img src="https://github.com/kubesimplify/ksctl/blob/main/img/ksctl-dark.png" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
+[PDF-Editor](https://github.com/dipankardas011/PDF-Editor) | <img src="https://github.com/dipankardas011/PDF-Editor/blob/main/coverpage.png" alt="github repo thumbnail" style="height: auto!important;width: 400px !important;"/>
+[Efficient Client-Server](https://github.com/dipankardas011/Efficient-client-server) | <img src="https://user-images.githubusercontent.com/65275144/197322418-3a48b8fc-723f-4b7c-b2fd-535a69f50ec5.png" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
+[Weather App](https://github.com/dipankardas011/Weather-App) | <img src="https://github.com/dipankardas011/Weather-App/blob/main/CoverPage.jpeg" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
+[Airport Booking](https://github.com/dipankardas011/AirportBooking) | <img src="https://github.com/dipankardas011/AirportBooking/blob/main/CoverPage.jpg" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
 
-# Tech Blogs
+# Tech Blogs 📔
 - https://blog.kubesimplify.com/about-my-pdf-editor-project
 - https://blog.kubesimplify.com/lets-talk-about-ansible
 - https://blog.kubesimplify.com/progressive-rollouts-with-argo-cd-rollouts
