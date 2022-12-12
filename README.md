@@ -55,6 +55,7 @@ Name&Link | Thumbnail
 [Airport Booking](https://github.com/dipankardas011/AirportBooking) | <img src="https://github.com/dipankardas011/AirportBooking/blob/main/CoverPage.jpg" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
 
 # Tech Blogs 📔
+- https://blog.kubesimplify.com/introduction-to-cri
 - https://blog.kubesimplify.com/about-my-pdf-editor-project
 - https://blog.kubesimplify.com/lets-talk-about-ansible
 - https://blog.kubesimplify.com/progressive-rollouts-with-argo-cd-rollouts
@@ -62,7 +63,7 @@ Name&Link | Thumbnail
 - https://blog.kubesimplify.com/pods-in-kubernetes
 - https://blog.kubesimplify.com/important-concepts-of-operating-systems
 - https://dipankardas011.hashnode.dev/
-- https://blog.kubesimplify.com/introduction-to-cri
+
 
 ## **Devlopment Tools**
 
