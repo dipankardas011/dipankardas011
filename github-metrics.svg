@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2888" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3202" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.low{color:#e53935}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -34,15 +34,15 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 109 repositories
+                            Contributed to 110 repositories
                         </div>
                     </section>
                 </div>
@@ -83,7 +83,7 @@ Open source, Projects, and Blogging</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2318 Commits
+                            2319 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -147,7 +147,7 @@ Open source, Projects, and Blogging</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 68 repositories
+                            Watching 69 repositories
                         </div>
                     </section>
                 </div>
@@ -159,7 +159,7 @@ Open source, Projects, and Blogging</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            100 Repositories
+                            101 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -185,7 +185,7 @@ Open source, Projects, and Blogging</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    10.2 GB used
+                                    10.7 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -217,13 +217,13 @@ Open source, Projects, and Blogging</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    65 Watchers
+                                    66 Watchers
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    441 views in last two weeks
+                                    448 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -245,14 +245,14 @@ Open source, Projects, and Blogging</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.9027097442364" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="304.9027097442364" y="0" width="115.02571899849765" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="419.9284287427341" y="0" width="16.20296290286276" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="436.1313916455969" y="0" width="13.094393079423435" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.22578472502033" y="0" width="6.3717058150590224" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.5974905400793" y="0" width="1.7035000028480245" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.30099054292737" y="0" width="1.3517189673164716" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.6527095102438" y="0" width="1.3472904897561906" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.8856123676806" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="304.8856123676806" y="0" width="115.0192689474864" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="419.904881315167" y="0" width="16.202054323997384" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="436.1069356391644" y="0" width="13.093658813173597" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.20059445233795" y="0" width="6.397142957839995" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.59773741017796" y="0" width="1.7034044793250094" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.30114188950296" y="0" width="1.3516431698655362" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.6527850593685" y="0" width="1.3472149406315115" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -447,14 +447,14 @@ Open source, Projects, and Blogging</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 17 commits)</small>
+                    <small class="h-details">(computed from last 43 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 11:00</li>
-                        <li>Mostly active on Friday</li>
+                        <li>Has approximately 31.4 characters per line of code written</li>
+                        <li>Mostly pushes code around 22:00</li>
+                        <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
             </section>
@@ -519,12 +519,12 @@ Open source, Projects, and Blogging</div>
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 11.363636363636363px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -534,7 +534,7 @@ Open source, Projects, and Blogging</div>
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -549,17 +549,17 @@ Open source, Projects, and Blogging</div>
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -568,18 +568,18 @@ Open source, Projects, and Blogging</div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">22</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             22
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 11.363636363636363px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             23
                         </div>
                     </div>
@@ -590,37 +590,37 @@ Open source, Projects, and Blogging</div>
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 1.7857142857142856px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">3</span>
-                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 5.357142857142857px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">3</span>
-                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 5.357142857142857px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 1.7857142857142856px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">5</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 8.928571428571429px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -630,22 +630,32 @@ Open source, Projects, and Blogging</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 32.33196261682243%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 27.630477610350887%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">35%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 13.734080996884735%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 11.923539747617273%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 4.3392790586230765%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 0.4431152647975078%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.0231617059794473%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 0.1167137000159736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.023925233644859815%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.020446195623236248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -692,7 +702,7 @@ Open source, Projects, and Blogging</div>
                                     </svg>
                                     <div class="name">
                                         <span>afro-coder/epaper-badge</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -840,7 +850,7 @@ Open source, Projects, and Blogging</div>
                                     </svg>
                                     <div class="name">
                                         <span>BuoyantIO/service-mesh-academy</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -977,19 +987,413 @@ Open source, Projects, and Blogging</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kubesimplify/ksctl</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">dipankardas011/linux</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">ha-civo</span></div>
+                                    <div>on branch <span class="code">removedUnusedTODO</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e8459b8</div>
-                                        <div class="message">Added controlplane and workerplane
+                                        <div class="sha">#ac50fe5</div>
+                                        <div class="message">bpf: Propagate errors from process_* checks in check_func_arg
 
-FIXME: workerplane not configuring
+Currently, we simply ignore the errors in process_spin_lock,
+process_timer_func, process_kptr_func, process_dynptr_func. Instead,
+bubble up the error by storing and checking err variable.
 
-Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
+Acked-by: Joanne Koong &lt;joannelkoong@gmail.com&gt;
+Signed-off-by: Kumar Kartikeya Dwivedi &lt;memxor@gmail.com&gt;
+Link: https://lore.kernel.org/r/20221207204141.308952-3-memxor@gmail.com
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b75bd3</div>
+                                        <div class="message">bpf: Refactor ARG_PTR_TO_DYNPTR checks into process_dynptr_func
+
+ARG_PTR_TO_DYNPTR is akin to ARG_PTR_TO_TIMER, ARG_PTR_TO_KPTR, where
+the underlying register type is subjected to more special checks to
+determine the type of object represented by the pointer and its state
+consistency.
+
+Move dynptr checks to their own 'process_dynptr_func' function so that
+is consistent and in-line with existing code. This also makes it easier
+to reuse this code for kfunc handling.
+
+Then, reuse this consolidated function in kfunc dynptr handling too.
+Note that for kfuncs, the arg_type constraint of DYNPTR_TYPE_LOCAL has
+been lifted.
+
+Acked-by: David Vernet &lt;void@manifault.com&gt;
+Acked-by: Joanne Koong &lt;joannelkoong@gmail.com&gt;
+Signed-off-by: Kumar Kartikeya Dwivedi &lt;memxor@gmail.com&gt;
+Link: https://lore.kernel.org/r/20221207204141.308952-2-memxor@gmail.com
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#837e8ac</div>
+                                        <div class="message">Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net
+
+No conflicts.
+
+Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c399110</div>
+                                        <div class="message">Input: elants_i2c - delay longer with reset asserted
+
+The elan touchscreen datasheet says that the reset GPIO only needs to
+be asserted for 500us in order to reset the regulator. The problem is
+that some boards need a level shifter between the signals on the GPIO
+controller and the signals on the touchscreen. All of these extra
+components on the line can slow the transition of the signals. On one
+board, we measured the reset line and saw that it took almost 1.8ms to
+go low. Even after we bumped up the "drive strength" of the signal
+from the default 2mA to 8mA we still saw it take 421us for the signal
+to go low.
+
+In order to account for this let's lengthen the amount of time that we
+keep the reset asserted. Let's bump it up from 500us to 5000us.
+That's still a relatively short amount of time and is much safer.
+
+It should be noted that this fixes real problems. Case in point:
+1. The touchscreen power rail may be shared with another device (like
+   an eDP panel). That means that at probe time power might already be
+   on.
+2. In probe we grab the reset GPIO and assert it (make it low).
+3. We turn on power (a noop since it was already on).
+4. We wait 500us.
+5. We deassert the reset GPIO.
+
+With the above case and only a 500us delay we saw only a partial reset
+asserted, which is bad. Giving it 5ms is overkill but feels safer in
+case someone else has a different level shifter setup.
+
+Note that bumping up the delay to 5000 means that some configs yell
+about using udelay(). We'll change to using usleep_range(). We give a
+small range here because:
+- This isn't a delay that happens very often so we don't need to worry
+  about giving a big range to allow for power efficiency.
+- usleep_range() is known to almost always pick the upper bound and
+  delay that long and we really don't want to slow down the power on
+  of the touchscreen that much.
+
+Signed-off-by: Douglas Anderson &lt;dianders@chromium.org&gt;
+Reviewed-by: Matthias Kaehlcke &lt;mka@chromium.org&gt;
+Link: https://lore.kernel.org/r/20221208180603.v2.5.I6edfb3f459662c041563a54e5b7df727c27caaba@changeid
+Signed-off-by: Dmitry Torokhov &lt;dmitry.torokhov@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66efff5</div>
+                                        <div class="message">Merge tag 'amd-drm-next-6.2-2022-12-07' of https://gitlab.freedesktop.org/agd5f/linux into drm-next
+
+amd-drm-next-6.2-2022-12-07:
+
+amdgpu:
+- DSC fixes for DCN 2.1
+- HDMI PCON fixes
+- PSR fixes
+- DC DML fixes
+- Properly throttle on BO allocation
+- GFX 11.0.4 fixes
+- MMHUB fix
+- Make some functions static
+
+Signed-off-by: Dave Airlie &lt;airlied@redhat.com&gt;
+From: Alex Deucher &lt;alexander.deucher@amd.com&gt;
+Link: https://patchwork.freedesktop.org/patch/msgid/20221207232439.5908-1-alexander.deucher@amd.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e5737b</div>
+                                        <div class="message">Merge tag 'amd-drm-next-6.2-2022-12-02' of https://gitlab.freedesktop.org/agd5f/linux into drm-next
+
+amd-drm-next-6.2-2022-12-02:
+
+amdgpu:
+- Fix CPU stalls when allocating large amounts of system memory
+- SR-IOV fixes
+- BACO fixes
+- Enable GC 11.0.4
+- Enable PSP 13.0.11
+- Enable SMU 13.0.11
+- Enable NBIO 7.7.1
+- Fix reported VCN capabilities for RDNA2
+- Misc cleanups
+- PCI ref count fixes
+- DCN DPIA fixes
+- DCN 3.2.x fixes
+- Documentation updates
+- GC 11.x fixes
+- VCN RAS fixes
+- APU fix for passthrough
+- PSR fixes
+- GFX preemption support for gfx9
+- SDMA fix for S0ix
+
+amdkfd:
+- Enable KFD support for GC 11.0.4
+- Misc cleanups
+- Fix memory leak
+
+Signed-off-by: Dave Airlie &lt;airlied@redhat.com&gt;
+From: Alex Deucher &lt;alexander.deucher@amd.com&gt;
+Link: https://patchwork.freedesktop.org/patch/msgid/20221202160659.5987-1-alexander.deucher@amd.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f06a4da</div>
+                                        <div class="message">Merge tag 'drm-misc-next-fixes-2022-12-08' of git://anongit.freedesktop.org/drm/drm-misc into drm-next
+
+Some deferred-io and damage worker reworks revert and make a fb function
+static
+
+Signed-off-by: Dave Airlie &lt;airlied@redhat.com&gt;
+
+From: Maxime Ripard &lt;maxime@cerno.tech&gt;
+Link: https://patchwork.freedesktop.org/patch/msgid/20221208084040.yw4zavsjd25qsltf@houat</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6798152</div>
+                                        <div class="message">Merge branch 'Misc optimizations for bpf mem allocator'
+
+Hou Tao says:
+
+====================
+
+From: Hou Tao &lt;houtao1@huawei.com&gt;
+
+Hi,
+
+The patchset is just misc optimizations for bpf mem allocator. Patch 1
+fixes the OOM problem found during running hash-table update benchmark
+from qp-trie patchset [0]. The benchmark will add htab elements in
+batch and then delete elements in batch, so freed objects will stack on
+free_by_rcu and wait for the expiration of RCU grace period. There can
+be tens of thousands of freed objects and these objects are not
+available for new allocation, so adding htab element will continue to do
+new allocation.
+
+For the benchmark commmand: "./bench -w3 -d10 -a htab-update -p 16",
+even the maximum entries of htab is 16384, key_size is 255 and
+value_size is 4, the peak memory usage will reach 14GB or more.
+Increasing rcupdate.rcu_task_enqueue_lim will decrease the peak memory to
+860MB, but it is still too many. Although the above case is contrived,
+it is better to fix it and the fixing is simple: just reusing the freed
+objects in free_by_rcu during allocation. After the fix, the peak memory
+usage will decrease to 26MB. Beside above case, the memory blow-up
+problem is also possible when allocation and freeing are done on total
+different CPUs. I'm trying to fix the blow-up problem by using a global
+per-cpu work to free these objects in free_by_rcu timely, but it doesn't
+work very well and I am still digging into it.
+
+Patch 2 is a left-over patch from rcu_trace_implies_rcu_gp() patchset
+[1]. After disscussing with Paul [2], I think it is also safe to skip
+rcu_barrier() when rcu_trace_implies_rcu_gp() returns true.
+
+Comments are always welcome.
+
+Change Log:
+v2:
+  * Patch 1: repharse the commit message (Suggested by Yonghong &amp; Alexei)
+  * Add Acked-by for both patch 1 and 2
+
+v1: https://lore.kernel.org/bpf/20221206042946.686847-1-houtao@huaweicloud.com
+
+[0]: https://lore.kernel.org/bpf/20220924133620.4147153-13-houtao@huaweicloud.com/
+[1]: https://lore.kernel.org/bpf/20221014113946.965131-1-houtao@huaweicloud.com/
+[2]: https://lore.kernel.org/bpf/20221021185002.GP5600@paulmck-ThinkPad-P17-Gen-1/
+====================
+
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#822ed78</div>
+                                        <div class="message">bpf: Skip rcu_barrier() if rcu_trace_implies_rcu_gp() is true
+
+If there are pending rcu callback, free_mem_alloc() will use
+rcu_barrier_tasks_trace() and rcu_barrier() to wait for the pending
+__free_rcu_tasks_trace() and __free_rcu() callback.
+
+If rcu_trace_implies_rcu_gp() is true, there will be no pending
+__free_rcu(), so it will be OK to skip rcu_barrier() as well.
+
+Acked-by: Yonghong Song &lt;yhs@fb.com&gt;
+Acked-by: Paul E. McKenney &lt;paulmck@kernel.org&gt;
+Signed-off-by: Hou Tao &lt;houtao1@huawei.com&gt;
+Link: https://lore.kernel.org/r/20221209010947.3130477-3-houtao@huaweicloud.com
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0893d60</div>
+                                        <div class="message">bpf: Reuse freed element in free_by_rcu during allocation
+
+When there are batched freeing operations on a specific CPU, part of
+the freed elements ((high_watermark - lower_watermark) / 2 + 1) will be
+indirectly moved into waiting_for_gp list through free_by_rcu list.
+After call_rcu_in_progress becomes false again, the remaining elements
+in free_by_rcu list will be moved to waiting_for_gp list by the next
+invocation of free_bulk(). However if the expiration of RCU tasks trace
+grace period is relatively slow, none element in free_by_rcu list will
+be moved.
+
+So instead of invoking __alloc_percpu_gfp() or kmalloc_node() to
+allocate a new object, in alloc_bulk() just check whether or not there is
+freed element in free_by_rcu list and reuse it if available.
+
+Acked-by: Yonghong Song &lt;yhs@fb.com&gt;
+Signed-off-by: Hou Tao &lt;houtao1@huawei.com&gt;
+Link: https://lore.kernel.org/r/20221209010947.3130477-2-houtao@huaweicloud.com
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39cb018</div>
+                                        <div class="message">dt-bindings: input: Convert ti,drv260x to DT schema
+
+Convert the drv260x haptics binding to DT schema format.
+
+The only notable change from .txt format is that vbat-supply is not
+actually required, so don't make it a required property.
+
+Acked-by: Andrew Davis &lt;afd@ti.com&gt;
+Signed-off-by: Luca Weiss &lt;luca@z3ntu.xyz&gt;
+Reviewed-by: Rob Herring &lt;robh@kernel.org&gt;
+Link: https://lore.kernel.org/r/20221118174831.69793-1-luca@z3ntu.xyz
+Signed-off-by: Dmitry Torokhov &lt;dmitry.torokhov@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4a5bca</div>
+                                        <div class="message">dt-bindings: input: gpio-beeper: Convert to yaml schema
+
+Convert the bindings from plain text to yaml schema.
+
+Signed-off-by: Fabio Estevam &lt;festevam@denx.de&gt;
+Reviewed-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@linaro.org&gt;
+Reviewed-by: Mattijs Korpershoek &lt;mkorpershoek@baylibre.com&gt;
+Link: https://lore.kernel.org/r/20221120012135.2085631-1-festevam@gmail.com
+Signed-off-by: Dmitry Torokhov &lt;dmitry.torokhov@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61b2f0b</div>
+                                        <div class="message">Merge patch series "riscv: Fix crash during early errata patching"
+
+These are fixes, but due to the possible early boot fallout they're
+going in the merge window to get a bit more time to bake on linux-next.
+
+* b4-shazam-merge
+  riscv: Move cast inside kernel_mapping_[pv]a_to_[vp]a
+  riscv: Fix crash during early errata patching
+
+Link: https://lore.kernel.org/r/20221126060920.65009-1-samuel@sholland.org
+Signed-off-by: Palmer Dabbelt &lt;palmer@rivosinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#583286e</div>
+                                        <div class="message">riscv: Move cast inside kernel_mapping_[pv]a_to_[vp]a
+
+Before commit 44c922572952 ("RISC-V: enable XIP"), these macros cast
+their argument to unsigned long. That commit moved the cast after an
+assignment to an unsigned long variable, rendering it ineffectual.
+Move the cast back, so we can remove the cast at each call site.
+
+Reviewed-by: Alexandre Ghiti &lt;alexandre.ghiti@canonical.com&gt;
+Reviewed-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
+Signed-off-by: Samuel Holland &lt;samuel@sholland.org&gt;
+Link: https://lore.kernel.org/r/20221126060920.65009-2-samuel@sholland.org
+Signed-off-by: Palmer Dabbelt &lt;palmer@rivosinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c49688</div>
+                                        <div class="message">riscv: Fix crash during early errata patching
+
+The patch function for the T-Head PBMT errata calls __pa_symbol() before
+relocation. This crashes when CONFIG_DEBUG_VIRTUAL is enabled, because
+__pa_symbol() forwards to __phys_addr_symbol(), and __phys_addr_symbol()
+checks against the absolute kernel start/end address.
+
+Fix this by checking against the kernel map instead of a symbol address.
+
+Fixes: a35707c3d850 ("riscv: add memory-type errata for T-Head")
+Reviewed-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
+Tested-by: Heiko Stuebner &lt;heiko@sntech.de&gt;
+Signed-off-by: Samuel Holland &lt;samuel@sholland.org&gt;
+Link: https://lore.kernel.org/r/20221126060920.65009-1-samuel@sholland.org
+Signed-off-by: Palmer Dabbelt &lt;palmer@rivosinc.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40b85ee</div>
+                                        <div class="message">clk: lmk04832: fix kernel-doc warnings
+
+Fix syntax generating the following kernel-doc warnings:
+
+drivers/clk/clk-lmk04832.c:189: warning: cannot understand function prototype: 'struct lmk04832_device_info '
+drivers/clk/clk-lmk04832.c:193: warning: Function parameter or member 'pid' not described in 'lmk04832_device_info'
+drivers/clk/clk-lmk04832.c:193: warning: Function parameter or member 'maskrev' not described in 'lmk04832_device_info'
+drivers/clk/clk-lmk04832.c:193: warning: Function parameter or member 'num_channels' not described in 'lmk04832_device_info'
+drivers/clk/clk-lmk04832.c:193: warning: Function parameter or member 'vco0_range' not described in 'lmk04832_device_info'
+drivers/clk/clk-lmk04832.c:193: warning: Function parameter or member 'vco1_range' not described in 'lmk04832_device_info'
+drivers/clk/clk-lmk04832.c:420: warning: No description found for return value of 'lmk04832_check_vco_ranges'
+drivers/clk/clk-lmk04832.c:459: warning: No description found for return value of 'lmk04832_calc_pll2_params'
+
+Signed-off-by: Liam Beguin &lt;liambeguin@gmail.com&gt;
+Link: https://lore.kernel.org/r/20221120030257.531153-5-liambeguin@gmail.com
+Signed-off-by: Stephen Boyd &lt;sboyd@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#739d5e6</div>
+                                        <div class="message">
+                                            clk: lmk04832: drop superfluous #include
+
+iwyu warnings: (new ones prefixed by &gt;&gt;)
+&gt;&gt; drivers/clk/clk-lmk04832.c:15
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            iwyu: warning: superfluous #include &lt;linux/debugfs.h&gt;
+&gt;&gt; drivers/clk/clk-lmk04832.c:20
+                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAL4ElEQVR4nO2bSWwcWRmA/3ZvXjpOYjtx7CyTdYzENiCBOCAhcWEkxBUhhLgglgNIIITYLgjEAc0BcUJzQERJ6lXv7b29xVucOB5AI3GC0SCQRkIzSb/q1XYvVfWj/72qdnW7E1c79gxuzZN+2a6ubtf/1b+/aoAP14frfVsYhYDG4BucwW2uwKbG4K+cQZyr8O2cAmehk9fTuzCiMXibM8Bs1FcrjPeZhfEQZqN+nY5xBkVNgZ9iFLzQiSvD4OekaGX5IuLWRxDf2JPag6tYmAyZAoQCS/we9EOnLa7C69mwV3cq3izlpQtkCabGYA1nIQidtDiD27mYv/o8ACSV+6NoWcJvoJMWZ6Dm4oHaQQBISlOnCUL1PQbD0CmLM0jm4sHnuoAt+sPr0goY/Bg6ZXEG6Xyyx3ADgCQb89cyCijQKUtjsJJP9rpSniSf6DY4gxnolMVVeFwY73MNgOIFVyEKnbI48/ynONnvGoAW7tK5An+ATlj4Ovg5A30nPehKeePRDREENQW+A52wsgq8IqrA+6OuAFSWZS2QUeCz0AlLY/ATUsh4dNMVgNLMGdEbdExfwBn8xW0NIAJgzK9rDCagE5bG4PN098uLF9ry/wyDH0AnLM5gTot4dXPrZVcAyksjdhX4UTjpS1Pga/LuD7tOf8XJU6gxyCCCB07y4ipcJkXy8W6juf9/bv6PeGlAEoOTvJ5EIcQZ/J2KGWps3CpvN0En2v9zCpzlKjykwUZ19bJr5YX/35f+nw3DJ+EkLi0MH+MM/qExj1FZudSW8iQ7c0MEwHCT/9+9A335KAwQcPodPsiFUfByBj/UGFSyEa9eW7/StvIk2zNnkasejT7z6Z/gFGfwKlfh19QUaQq8qanwhDMoWFlin2gMypoKnDpPTYUvvy/K83vwOY3Bm3QBxYmQaW7eOpTyAsDsWVJE5yrMkiXYimXDnloh7jVLqSBuT/XiznQ/7s6exfL8OSwvnMfd+XPCerbTg1iaPkOTZvHeDINfHpviT8Pw6YwKU+Tr2YhPF9PeQypuF0C5eMCOAeZ2DLA67kEz3Y24eBpx5Rzi+kXER9cQD6gpzK0xLE71iwFrlsEXjlTxzD34jMZgUkxvw136ztw5NB+7K3KeJdXVS9T+oqYCVpKAOAWI012Ic92IS6cRV88jPriEuHnD9WfSNdGNIWt6YaXfvQN9XIFvaSr8TfiaUHzohRWXF3qL/J78F/UJS3mS2QDiwinE5SHrzrtPp7aQO3AVdg5VVOEK+DQVvk4BiKuwTYrnEkGdqrqjULx+99euCLMvxRzKT3kQ0467v3EZ8bG7TtIpO/PnxGf/dwp6273j57kCbwh/jHh1ak9ray8dmdKtip+deAsAwvfJ/C+3Zf4NFsCg1JYF4Ar4OIMtyuXlxfMHBpyjEHKBfMQJgFzAj7gQQlweRFwbQXx4ta1roWykhbsMrkLicA3M/BDi5nVpeltjxwogn+wRVrAdBzRtANNkBUHExVMOCC+5cgVj8ybmUz2016hTtmoLQEYBRVO7dNy4IlMOmd5jyu3HB4FmBXs5X7pDbVxKOeXD7ZQfS8kAFpNBLCSCmI8HMBf3y5/0dyIofubiQcxFfSZXxf4iTZV/1PZUSaP5fSJgisBDxAWEm8fqClRDtKjqGn7PqoC5sAfz0S4sxH1YTPqxmAhgIRHAfCJAiotUuq9CVOE9ev7ANQCuwAOijA8uorAC8r26KxwPBDsTOKUYBaykAI0JKx7M98qsQGlx7YKsC8S13Wi8rq0xNB7eEJ9Jw5V8qldsu9OzB+4AMFgnqrg+Kv+JcIXjhVBduVRXvBQFNCYdxZDIBnYcuCCvR2QEty45JoYsXIXak7tw0w2ANQGA/hkVIA2uYMWDI4awu3B+fy3QHATX7SDYfq9B02iuekxNhd8eCCDDYLWQ8COuDsvI+6AVhKO1hOJ4SABoqARnfJbZn5HXsnG4WsAWmkrTBq07AHG/bD7oH6+3guBwhyNIkbmoXwAwWgG4f/YoAcy5ywJxnww2VIYKVxhtDcHpEocEISpBVfp/2W6EGvy/3+oHRtsuhpxFEVc9BlfgNTcAlgWA+wOIK8+BQBfjdIkGEG5gjInzRYBypLtqymkFXsS5nj0IdjFEabkNANuzA7LGUOCVAwFwBvfzMa/0veVnQKDaXKRIyxqoU6uDcMJ4jjy+hRVrBtgshdgeCHPKg/q0H2vT3VidDWFlth/L6TNYWRjE6tIwVlcuYm39Kuob1/ZvvW2NiWGJ9bm3D1S+DiDqlY0I+V8zBLoLlB1EimyyBqdrNABpks0bqK9d3le47KYHsDQVEr2BVcS0BHSQaNRehz2mw7Im34lCD7hZXIElAYB68aUmCNSZ2dmhbg0WCNsinDBs62iQa1hbGaX5f8MF786cwUKyu34sF5ZpcTfpwcqEH6vTPVibO4X64gAay8Oor4xgje7+6iUxUKFqkkpqmlNQF5hPyf6CM8i1NWXmDBap3MT5PpmDbQgUE8gP7exQt4YWIOowbLkqZeMK7qZp7ufZM/dEN1bnB+mOiYnQTsKRDUQF2GelQmsq5GIkVg+wD66KqZCmwtvU5boHEOsyRfChf06WQO5AFyEgDFoQzu8HYbuGEIIhxVgdwd30GczFfPU7XhrvxdqSnPNRY0NNUEManKU02PfCabCyIvuMDIMvugWwkI96TJGCGiD0WxDIJQYd1tAMwoYhgVDHlo14sZDqFtPc6uLQ3jlrI2isyCpwN9GqCuyXrmcPQw+RZqk1ltDhe+4AKDCfj3hMMZNrgBBCfY7MsckabBAiPjhh2DLiEMdxOm91GM3lc/snQgKAVQPQZ5OLUXA9bJ0hnzb5pnsAUTBFJSYgBC0IvaIvF3HBaQ11EOQaNgwnkBZCr9nnLQ9hPuYT/t84FLUmQvT5BOyQfYDdZzy9C2NuXSCdj4ApKjEBwW9B6Ba9uDHbKy9MgLCsoRUM2zqEhVhi/11/fUC8R5/vp82PehA0RTdoucFCq07QfQWohb00FttwpTwtmgJnaX/OLkepGhMQAuIiyxMBWaMvSLfYs4hmGLYMNInjNXH+aQHSmAthMenbyw5RGRdqkz400z3yPIJIriRa9OuIW7eea/q5eMDQVKi0lQYzCvyCK86e3CMgmNPy4opxKk/t2NBbjw8yUFow6kCeIWQ59nn0noVTaM6HcCcVwKxVBDknQlYQw1yEpkFepG61mApiabwHS5O9WJrow+J4rxAKthR4aSxm7SO+Cu0sLQpX6EntYgxMZ1DSJ2XVRlawFxuaQNRhWEDqUCyxj9XPCYn36LPdmI146ne+TJOgKdoWC2J1pg93p0O4PRmSCo730mO0Yv6XjfnJxMXPXMwvjtN8kI7R3uKTdpW3l8bgZ+Jux8CU/ihrc/tu6FOWW9ggRLawYNSBOKDsE+t16/xcVG6L0RC0YWeIoJHZt5kFjD3fn4bDLq7Ar8T+nwoGzefoztgAyknpFvUg2QDDCaQJjPMYnZMOojEbaF0H0PkUI+wM0GYbXKKtdgWqrivAVktj8An6qgtn8JbYtnaMrmvjHhkk7UApYDQBEVCaxD5unWfHFtoTaJgFEAAKlALA1bbH8nb6KzAYgqNYGAWvdg8+zlV4jauQpw/Ph8EoU+0+1QzDFt8zxHp9mqRLND3U+e06ByINe4NX2q4BqCGiBzaO5WnTf/8ZujUG3+UM/uno3nRShIDUUh7RxwtTtsHUxTpOr1vK0m6Q7WLUBdJkiCxD9gIDe4MQl24gYkDEq9PzC3Dc62kYXqYdGK7AHGfAmzY3jFwYaoWInPMTIDL13bgERc8CUHCl4EeNEClOe4T2+/MRD24n/ViZ6cPa0iCa1BMcUAjRngB9M4UzqGVV+NSxA2j1BUmuwJcyCnw/w+B3nAGznhp7i57xIbM8zJDDOTvIRb1mPhHUC6keeixHjNVI6MuYtKlr/Y+vwv/reicKPU9VGKXHYelZYo3BV6hZoe8HEDjaxSGhB6QIoqbAH+nrM1yFdEaBhKbCHfE3g0X6+q0WFg9Q/YszeMwZ/D6nwPUPWscPF5yQ9T/KI/pe41Q4OgAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
+                                            iwyu: warning: superfluous #include &lt;linux/uaccess.h&gt;
+
+Reported-by: kernel test robot &lt;lkp@intel.com&gt;
+Link: https://lore.kernel.org/all/202107110620.926Sm95z-lkp@intel.com/
+Signed-off-by: Liam Beguin &lt;liambeguin@gmail.com&gt;
+Link: https://lore.kernel.org/r/20221120030257.531153-4-liambeguin@gmail.com
+Signed-off-by: Stephen Boyd &lt;sboyd@kernel.org&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#992a355</div>
+                                        <div class="message">clk: lmk04832: drop unnecessary semicolons
+
+Semicolons on the closing brace of a function definition are
+unnecessary, remove them.
+
+Signed-off-by: Liam Beguin &lt;liambeguin@gmail.com&gt;
+Link: https://lore.kernel.org/r/20221120030257.531153-3-liambeguin@gmail.com
+Signed-off-by: Stephen Boyd &lt;sboyd@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c63444</div>
+                                        <div class="message">clk: lmk04832: declare variables as const when possible
+
+Fix the following warning reported by the kernel test robot.
+
+	cppcheck possible warnings: (new ones prefixed by &gt;&gt;, may not real problems)
+	&gt;&gt; drivers/clk/clk-lmk04832.c:357:15: warning: Variable 'pll2_p' can be declared with const [constVariable]
+	    unsigned int pll2_p[] = {8, 2, 2, 3, 4, 5, 6, 7};
+
+Reported-by: kernel test robot &lt;lkp@intel.com&gt;
+Link: https://lore.kernel.org/all/202203312017.5YW13Jr4-lkp@intel.com/
+Signed-off-by: Liam Beguin &lt;liambeguin@gmail.com&gt;
+Link: https://lore.kernel.org/r/20221120030257.531153-2-liambeguin@gmail.com
+Signed-off-by: Stephen Boyd &lt;sboyd@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b8ba89</div>
+                                        <div class="message">clk: socfpga: Fix memory leak in socfpga_gate_init()
+
+Free @socfpga_clk and @ops on the error path to avoid memory leak issue.
+
+Fixes: a30a67be7b6e ("clk: socfpga: Don't have get_parent for single parent ops")
+Signed-off-by: Xiu Jianfeng &lt;xiujianfeng@huawei.com&gt;
+Link: https://lore.kernel.org/r/20221123031622.63171-1-xiujianfeng@huawei.com
+Acked-by: Dinh Nguyen &lt;dinguyen@kernel.org&gt;
+Signed-off-by: Stephen Boyd &lt;sboyd@kernel.org&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1002,16 +1406,14 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">kubesimplify/ksctl</span>
+                                        <span class="repo">dipankardas011/keptn</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">ha-civo</span></div>
+                                    <div>on branch <span class="code">production</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0a29e23</div>
-                                        <div class="message">Integrated the Loadbalancer and Database
-
-Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
+                                        <div class="sha">#70b4b26</div>
+                                        <div class="message">add self-healing to production</div>
                                     </div>
                                 </div>
                             </section>
@@ -1024,16 +1426,14 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">kubesimplify/ksctl</span>
+                                        <span class="repo">dipankardas011/keptn</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">ha-civo</span></div>
+                                    <div>on branch <span class="code">production</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0944820</div>
-                                        <div class="message">Added Load balancer creation
-
-Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
+                                        <div class="sha">#e285553</div>
+                                        <div class="message">add remediation file to production</div>
                                     </div>
                                 </div>
                             </section>
@@ -1046,16 +1446,14 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">dipankardas011/linux-configs</span>
+                                        <span class="repo">dipankardas011/keptn</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">production</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5344fa9</div>
-                                        <div class="message">removed the nvchad and added lunarvim
-
-Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
+                                        <div class="sha">#b6f8fcd</div>
+                                        <div class="message">add remediation action to jes in production</div>
                                     </div>
                                 </div>
                             </section>
@@ -1068,21 +1466,14 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">dipankardas011/Weather-App</span>
+                                        <span class="repo">dipankardas011/keptn</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-fix-9c0a351bc633047125632de3d3ab6be9</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2924e4a</div>
-                                        <div class="message">fix: Dockerfile to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-ALPINE316-CURL-3063711
-- https://snyk.io/vuln/SNYK-ALPINE316-CURL-3063711
-- https://snyk.io/vuln/SNYK-ALPINE316-CURL-3063712
-- https://snyk.io/vuln/SNYK-ALPINE316-CURL-3063712
-- https://snyk.io/vuln/SNYK-ALPINE316-NGINX-3055742</div>
+                                        <div class="sha">#357257d</div>
+                                        <div class="message">add self-healing to production</div>
                                     </div>
                                 </div>
                             </section>
@@ -1215,7 +1606,7 @@ The following vulnerabilities are fixed with an upgrade:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.65 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.425 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1240,9 +1631,9 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 157k out of 104m users</span>
+                                    <span class="gh">ranked 154k out of 104m users</span>
                                 </div>
-                                <div class="text">Published 96 public repositories</div>
+                                <div class="text">Published 97 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1780,7 +2171,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2022, 18:47:10 (timezone Asia/Kolkata) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 18 Dec 2022, 07:40:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
