@@ -20,6 +20,7 @@
 - 🎓 I’m an Open-Source and Blogging enthusiast
 - 💻 I am passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
 - 🌱 Open Source, Applying the Concepts, and Blogging
+- Portfolio Link: https://dipankardas-portfolio.pages.dev/
 - 📃 [Resume Link(Latest)](https://github.com/dipankardas011/dipankardas011/blob/htmlSRC/Resume.pdf)
 </p>
 
