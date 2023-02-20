@@ -223,7 +223,7 @@ Open source, Projects, and Blogging</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    621 views in last two weeks
+                                    641 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -509,8 +509,8 @@ Open source, Projects, and Blogging</div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -524,8 +524,8 @@ Open source, Projects, and Blogging</div>
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -606,37 +606,37 @@ Open source, Projects, and Blogging</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 48.61052199878089%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">61%</span>
+                                <div class="bar" style="width: 49.33023375810688%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 2.6483369241875634%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.5876146902300254%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.3766323873515788%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.3679967943000019%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HCL</span>
-                                <div class="bar" style="width: 0.2426986744270317%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.23713397246062173%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.17640598094927767%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.17236126701998897%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 0.06988822939519153%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0682858013289383%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 0.06629269347775402%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0647727054406328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -683,7 +683,7 @@ Open source, Projects, and Blogging</div>
                                     </svg>
                                     <div class="name">
                                         <span>dipankardas011/dipankardas-portfolio</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -805,7 +805,7 @@ Open source, Projects, and Blogging</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        129
+                                        130
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -896,7 +896,7 @@ Open source, Projects, and Blogging</div>
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgABAAMAAwAAAAAAAAAAAAAABgABBQMHCP/EACgQAAEDAwQABQUAAAAAAAAAAAECAwQABREGEiExBxMUI0EzUWGBwv/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECEQMhMf/aAAwDAQACEQMRAD8A8zQm9xyehTTSd6h2dLr0i2wJjYxublR0u7xnnvqrk6aixtOu3CE85sACEh4j3Ce8dYx+6MIe8reyv6bnBJHVGlVDh9mz4jW6EmRHuVqg+hYkj3WEA+WlzvLefg/b4xQmnmq9VSp+jodmlJaLaX/OSpI54BH9mgdJO/TsSzTg9ZXQtLasjALgzs/Iobc3/fWM5IPNalicV6ZxOeKPSVFUh1R7yaEW5K1I41KKgASSB1VVKlJA/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgEEBQcIAP/EACgQAAEDAwMDAwUAAAAAAAAAAAECAwQABREGEjETIUEHUWEIFSJi0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCj6JLbpR+UzucddQ5t3lplgulI/fBGKHmVpbebU4negKBI9xWw/TMybNoiGuOu3OofQp5wBJDvUOcuOHPcDGOOMUGRLhCchOhKyFoX3S4ngj+/FNKtP6gbd9u1Q11HoTrslvrKMQEICz2OQScHsg8+c+aqyg6j1m7aiOnLQGFybnakjpsxmnXQIrwJ7ENkHJ5GfB7cGgKnttuU62l1VumSIpdT03Oi4Ub0+xxQSGs5dxkXgJvcoyp7TSEPKKt+DjjI8gYB+RUFSn8juPNJQf/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGCP/EACQQAAEEAgEEAgMAAAAAAAAAAAEAAgMRBCEFBhMxQSJRYaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAcEQACAQUBAAAAAAAAAAAAAAABAgADERIhMTL/2gAMAwEAAhEDEQA/AOZ0KRhYkmZKWQ0CNkn0Lq/2tDidFcjlyCLHmxZH9wxuaC74AFgc8/HwO4263+NIPUSn6NpUUXK5AamWQrfk+nszjdZnbjPsWSQd2DryK/iqE8jiHXhkQQeRTJHxkljiwkEGjWj5CmnmeTMRiPI5pjN23vuo2KOr+tKAhEhW6JQFgLXj8+Zk5Dy6fImlJ8mSQm/XtMIQl51BP//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAQUI/8QALBAAAQMDAQYEBwAAAAAAAAAAAQIDBAAFESEGEhMxQVEUIkKhIzJhkZKxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAYDBf/EACURAAEDAwMDBQAAAAAAAAAAAAEAAgMEBnEFERMUIcEjUYGx0f/aAAwDAQACEQMRAD8AzyOtJCpl3vN2uBt77jDUFRQ20houcVY746HP26U7KVgbyqnE2U4xeLguBNjIjK3nMudHAPQMjXpSzX5pI4m8btu6BWxBFNM/lbv2+E/2uT423RpRTul5pDhHbIogmlvZG9xXoMWFxCJCWwjzevHamQ1q0kzJ4g4nf9WLXU5pahzHjb2wtVtU+qPs/NdbzvhvAx9Tj+1KGLkyGXWpUfi8UBYIIQQdeuDpyz3qr7UJCrBOB5cPPvUUe8q0Y7GjuvE8rceUttUDp358BFtzhDkwHGCQ60d5WTpkHT2q4oXxW0OI+VSQRXP7g3tTzGD+6v8AaPiWyKtWqi0gn8RV7eeQXjChdLB6b8j6X//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgMFAAEE/8QAKhAAAgIBAgUEAAcAAAAAAAAAAQIDEQQABQYSEyExFCJBYQckMkJRcYH/xAAZAQACAwEAAAAAAAAAAAAAAAABBAACAwb/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQxEiEi/9oADAMBAAIRAxEAPwAljQyZWRHBApeWRgqKPkn40u4Q2naZt0kbKyJclMBerPIiD0/MDQQMfcxu/wBoBqtHOHH/AD06q1TNiziE3Xu6beD/ADV196bY204e38JYW25e8YO1ZmXJHlzJOyhnUG0UAkGrC/VgjSFSDszqufyGX4ByUf4gbamNv+fPiGH0okSN44hy9BzGpor8X+qxYPj60Wv70s4hmMu9cWZEhUwvDChK2FZ7iCUD3ugxHntZFjuR1/3qtgAbYxwXLVhW95JNtyIMbcMefMgfIx4pA7xK1FwO9X4rx/mrffOIMLe9zyM7cNrymkc1H0sxU5UHZVIKEA+Sa+bOjes1A5AyCylXbzbsSy3HdZs5UiCdHGQ84j6jSM7VXPI7e52rsPAA7Aeb4ebUet3oE7NEUVjFn//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcEBf/EACsQAAEDAwMDAgYDAAAAAAAAAAECAwQABREGITESE0EHIiM1UWFxgZKhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAhEQACAwABAwUAAAAAAAAAAAABAgADEQQFEiEiMUFRcf/aAAwDAQACEQMRAD8A4y7FMnxRdWVNCGynoc6lYX+h+xWRmAA+2taWHWkOAEONLX1o2zjf7+R4pDf7hBtGjGnZCeHXO0Or3rJwAMZ+2c1Lk6jlu3qPLbbbDCVIPYVuF4Oeaos5T2kspw79fEbUEQYw2X3UFotNqtMWZaZzT7C1FA7QA8gbAcc8VMbjoi8y7lLlNx0LafdLiDlG6TxXVs2q41zZfEhsRilwEtdJP0wQR+K2TNdhl4NMQpDraUgBaBsf5DNM6jzm7VFbb+yWulSdt8GTT1UvrtwWwyt4OBAK0gDjPg778f3RmMstR2yTsMb0k11b48V6MllGA4k9QJznc0ETId74b6/b1Y4FZ9R9OD2jySx0xppa/m2aohvNpC40j4LyVeN/981YTclZ+WmiHp423ACHWGm++pIw6pIK0/g+KSvqVIeW46SpZO5oeTwg4B2EHM//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwYIAAMF/8QALRAAAQMCBQAJBQEAAAAAAAAAAQIDBAARBQYSITETFCNBUWFxkbEHFTIzgaH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EAB8RAAEDBAMBAAAAAAAAAAAAAAEAAgQDERIhBRMxIv/aAAwDAQACEQMRAD8AwYWzfdxdcjMUyFhLfQR7uz3Bsk7hA8Tb4qUNN6jQjml+TNzRM6B5a+2IbAPIBsN/Stea4UGXb6giUu12/Ek4E3J6v12U8zJYBHSNFktkDyN+fI+9TyLBw16OhxhkKbULg6qD5/3zAJbDBkuvRHEoJKfwNxcjemD6dAScuhx5SkgukoHgLA/JNU40nIbTZEXA6K1NfrXzx3VXeTKdsWo4IJIJcHxTnlae9iDDypGi6HCgaRbahTN7CIObcWjxdTbTb50gHjij5H6YHKYLsXEKUYNibrGFhoyZDktG6kup0WT3W9L/AO0z5HTLay6wZZQouEuIBTulJ4Hvc/2q3xZDzjkdlbqyhawg772q1CezQhCNkgWApUOkDcpkmruy/9k=" width="28" height="28" alt="" />
@@ -955,6 +955,28 @@ Open source, Projects, and Blogging</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">kubesimplify/ksctl</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">aks-ha</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e470a8d</div>
+                                        <div class="message">[API](Azure) Done with infrastrcutre creation and deletion
+
+Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1032,30 +1054,6 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#de6b163</div>
                                         <div class="message">[Bug] unable to unnmarshal state file
-
-Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kubesimplify/ksctl</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">aks-ha</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#85456f6</div>
-                                        <div class="message">Added the utility functions
-
-- Left SSH keypair and all
 
 Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </div>
@@ -1215,7 +1213,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 153k out of 108m users</span>
+                                    <span class="gh">ranked 153k out of 109m users</span>
                                 </div>
                                 <div class="text">Published 99 public repositories</div>
                             </div>
@@ -1304,7 +1302,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.19746748802191 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.40965092402465 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1409,7 +1407,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 103k out of 108m users</span>
+                                    <span class="gh">ranked 103k out of 109m users</span>
                                 </div>
                                 <div class="text">Followed by 83 users</div>
                             </div>
@@ -1527,7 +1525,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 915k out of 378m repositories</span>
+                                    <span class="gh">ranked 955k out of 378m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 10 times</div>
                             </div>
@@ -1785,7 +1783,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2023, 07:54:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Feb 2023, 18:54:00 (timezone Asia/Kolkata) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
