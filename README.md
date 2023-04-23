@@ -47,7 +47,7 @@
 
 Name&Link | Thumbnail
 -|-
-[ksctl](https://github.com/kubesimplify/ksctl) | <img src="https://github.com/kubesimplify/ksctl/blob/main/img/ksctl.png" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
+[ksctl](https://github.com/kubesimplify/ksctl) | <img src="https://github.com/kubesimplify/ksctl/blob/main/img/ksctl-logo.png" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
 [PDF-Editor](https://github.com/dipankardas011/PDF-Editor) | <img src="https://github.com/dipankardas011/PDF-Editor/blob/main/coverpage.png" alt="github repo thumbnail" style="height: auto!important;width: 400px !important;"/>
 [Efficient Client-Server](https://github.com/dipankardas011/Efficient-client-server) | <img src="https://user-images.githubusercontent.com/65275144/197322418-3a48b8fc-723f-4b7c-b2fd-535a69f50ec5.png" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
 [Weather App](https://github.com/dipankardas011/Weather-App) | <img src="https://github.com/dipankardas011/Weather-App/blob/main/CoverPage.jpeg" style="height: auto!important;width: 400px !important;" alt="github repo thumbnail"/>
