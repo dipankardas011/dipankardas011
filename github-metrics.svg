@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2973" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3003" class="">
     <defs>
         <style/>
     </defs>
@@ -23,27 +23,27 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 94 users
+                            Followed by 95 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ Open source, Projects, and Blogging</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2878 Commits
+                            2880 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -223,7 +223,7 @@ Open source, Projects, and Blogging</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    496 views in last two weeks
+                                    554 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -448,7 +448,7 @@ Open source, Projects, and Blogging</div>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.2 characters per line of code written</li>
+                        <li>Has approximately 33.6 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -460,7 +460,7 @@ Open source, Projects, and Blogging</div>
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -490,7 +490,7 @@ Open source, Projects, and Blogging</div>
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             06
                         </div>
                         <div class="entry">
@@ -500,7 +500,7 @@ Open source, Projects, and Blogging</div>
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             08
                         </div>
                         <div class="entry">
@@ -510,37 +510,37 @@ Open source, Projects, and Blogging</div>
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -550,12 +550,12 @@ Open source, Projects, and Blogging</div>
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -564,17 +564,17 @@ Open source, Projects, and Blogging</div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">14</span>
+                            <span class="value">15</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             23
                         </div>
@@ -626,17 +626,17 @@ Open source, Projects, and Blogging</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 29.261828149207485%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 29.702534325288816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">37%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 4.479084733643189%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.938486663037561%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.20021451555237754%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.20322990382870623%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -683,7 +683,7 @@ Open source, Projects, and Blogging</div>
                                     </svg>
                                     <div class="name">
                                         <span>anikthaku/CONGEAL</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CONGEAL :  CaptiON GenErating App using bLip</div>
@@ -730,7 +730,7 @@ Open source, Projects, and Blogging</div>
                                     </svg>
                                     <div class="name">
                                         <span>dipankardas011/napptive-hackathon</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wemakedevs napptive hackathon on OAM</div>
@@ -839,7 +839,7 @@ Open source, Projects, and Blogging</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        267
+                                        271
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -871,10 +871,11 @@ Open source, Projects, and Blogging</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    94 followers
+                    95 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEBwH/xAAsEAACAQMDAwIEBwAAAAAAAAABAgMEBREABiESEzEHQRQiQmFRcaGxwdHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAgEQABBAIBBQAAAAAAAAAAAAABAAIDERIhMQQTIkFR/9oADAMBAAIRAxEAPwCXYbhTrQxHuviOV6eIswJB6B/Z41681zuMNRc7NWR0cEUfCTL3DUvzkeflGMff9tFthxGoobUpgLyS3ztxqD4cxAD9dN/TzZovG390yVT1ML0o4XunlwHymM+2NLO6Y0SEMeJcA/hH2u1Hcoy0DRidOkS4GHlI8jBIHv5OrFkpqySllWqfJjlaNfn9h/udBamwVUdhO4EhQ0i1YppJCxLhujPj8PHP311/08ti3y3XOrpTIsBuMwTL4yODnGOPPjUfF2dFDDfC07XsNEtyoIpKKOHsV0lREIYliTrAPQeAM8YGk/pZSmjs17cjIrLnVPyMHoDlP4OoO462enoY+0+O4zo2OOMfbS3YQB2ykagKkLNgD6snqOc+eWOmYX6xPtamPWXxc0hoZIfSDeNukgeSSG5vHGCvWSQYiCMfkNbvRhJ6bZ7RyrNE3xUhw6Nk8LzqdervLT7qqmSCnb4lXmkDAlS4ZVBxnHhRpnYq6Sooe46xglzwq4GgmdZyVtZXiv/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwX/xAAwEAABAwMCBAQDCQAAAAAAAAABAgMEAAURBkESEyExBzJRYRQVFiNScXKBgpGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBoxLZBeSTww3T+w1PerbfrORcrhd7SW3LdJeditMxmQS2yFkAFHD6DOfWquaaYBAWhs/iBSUdXaBdJAZlXNpdyccRIXGdLbcUh7BPoOyxvvQBGhdb2+LEWm7WiQ5d2XOU8VSlfadNwQdh1HttR/rvUVvt0+3pkWRUhb0Fp7iEhQ4Qcjh7dcY71xvpYP3WRJsUaZc22Hyy/LOHHFrAAIye+Mj+KaUO1yXrRbBKLzD7cZLa2z3BBNBEy3n3nS8864t1wkqUVEkk+pos0VLnM2+QmLqNNtS2tSy07y8niHnbKj0OMg4/2g/as3vIDQPjwi1Hp2dB+RSlS4VwDiltu/FECVk77Bftv/QMJlsjc48q7TUI+6t1zI6/mqVx0P6VQnhBcZt00WyuVLkEsOqYRhw+VOMdz70H/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCBQYD/8QAJxAAAQMDBAEDBQAAAAAAAAAAAQIDBAAFEQYSEyFBBzFRCBRhcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AYFqpPSI8XZ9w+01yHCeRQGT8DNc0KoM66tkS567uartDamoMdtEcPSlN8I2dkBIPWckk0BzxUFDuqPQxdb0ja25Tq3XEM7ORSt5IBwO/PWO6vd4oMtf7/C0/Z37lcnCiOzjO0ZKyegAPml21P6gtX7VAm8E2DDDfFlhxBccHvheRgZ/HYrZfURJdRpi2spVhC5JWofJCFYoFQCVtZJIOD7fo0DB+mXq5GkGHZL3GMVwkMMPpOUHJwgLHjwM/yjPy0irby0SkOIO1bZ3JI8HNO0lxW0d0H//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -898,7 +899,6 @@ Open source, Projects, and Blogging</div>
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAMI/8QAKRAAAQMDAgYBBQEAAAAAAAAAAgEDBAAFEQYxEhMhQYGRIhQVFiNxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBW1I5+O6WcnxYwOSFIGm8jlEVe6+qF2ZrUMKa1Mn3WJJb54tyIZACdFXYV7Lvj+U4OxPvunJFvbcbRx3gUeZtlDRfG29BTmIN5lt8VuhOuOAHC40Bm44i9VVSJMJ1XZF/2ge77pppsF/SHqp3PsoDKNOBPVdAXVqOVtaVh0HW+WmHBLjQ+m+e9S65sj9YdBCrrrS6IZxoEg4zA/BSb6GXnt4orEu8eRGhzZEwGwYaQHBxk890T+4qc8SqRKu61negZ4+tLzAuciXaJz8Np1xT5AnlvyC9F9VS9O6tK+WwJUlUbkiqtu8CfFSTunhUqFktbmpLrIqLZqI5zig//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgGBAX/xAApEAABAwMDAwQCAwAAAAAAAAABAgMEAAURBhIxByFREyJhcRVBUoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACIRAAEDAwMFAAAAAAAAAAAAAAMAAQIEESEGEjETFFHR4f/aAAwDAQACEQMRAD8AqGW+iLFekPHDTKFOLPgAZNSlM1N1a1pLRdbTKTa7U8omNHadQ2EN8jd+1HGOf8FVNekrXZ5yGm/VcUwtKUfyOD2qdtORX7bGjxBdHIri4oacjbjlpQGzg8HPjHFTmK42wrKMDFd7pG6L6qvt4buVm1c2n8xbg2566AAl5pzOD27ZBSePIpRPNGPTS2KiajnSQtb6FQmmFSSSdygtZxnz7qTCe/NNFLfG6ScfTI7LluE6Nb4q5M6Q1HjtjK3HVhKR9k1P15uLV41Vcp2nWo8uA8soCi6W/cANxGAcgkk1gdV6juupnXJF3mOO7NxQ2DhtH0nj++a9TpYSLfeUhRwhY2/HapKkjvhlsQ6f7ETGJO8peOG9pp6captERL1ikzGW5zTuAVHCXCQOwPGRxj4pJOD35+qiCA6tVxmIWdwbcVgnk/dbGPrjUdqjMxYV1fSwEApSrCsfAz+qfTzvHKGt0s5YxOAlt3N/i//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQMCAAQRBRIhEzEGFBYiQQcyQlFhcZHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB8RAAIBBAIDAAAAAAAAAAAAAAABAgMEERIxQSEyUf/aAAwDAQACEQMRAD8A6DSi+bACdzMD+cVCyzUtpDGzYR3Heglt480qyWsvdJkWEQzFcxj+xVfWvGCNU0u5GlwEJLkBNhIHHzzUEbqXHY92r56My+oOqWJuijHUQqRwwxA2c/GOcVl9zcwQ4xViUT7sgfrT/rHkFzX5owbBss55wM8YrOdXZNWoOggDpxOBzRTmsg1bfRIZ3HVHqREp8vbbdkS0jHU4Hb4zijdlribW3WqGwgrBkR+Z+apaA+WpIfG6ECIKdOIEQMELnilMSlB04iRI780yzxLMmg5VX6/A5rd8gaXvRlgYxk9pH2Y4/wApIF2tg3S2ZP7062duPT1vcdRuY3JWIbvZg4zxQj0/YMlOU4TJ3H8qlqrFRoyT28n/2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwj/xAAsEAABAwMDAwEIAwAAAAAAAAABAgMEBREhAAYSBxNhMRQiQVFxkaGxFTKB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQMAAhESBCExQVH/2gAMAwEAAhEDEQA/AD4W/uoaTx/j48onIBaIV9gdD1brtV6HJEapNQESgQXGe25yQPOTqlRJDBqJLzXB02sb3xrm3dG2I0jclWel0+qvSHXpEkut2KFDmSB4IGP80C1KU8xyssOAJUaN1trk+I6thECSs4HFsjt/XOt09Vdxm/OTFSoGxCGMfnSr01ocKFJpU6I3JYaksvNSGZQsVqC0EE+M/vVUe2tBluF5qOhKVfBCcX+OpAbdgzbAFnBE0QUj31n+oyb+mpNvyqMObjdNKqb62+2kO+ynmhBN7jAPrb76Tuo1fqM2sVBD0ghph3sIaRhATnNvn50o0GpyodfiFlzDhCFJVkEZ0/kJBpn3CcNhDB8nQWyyzHp7UV+QZDrQz3D7wB9Pxb76Iqe6TGmuNI9tSkenBvB86hkCuVBFTnKRIUkrdCzb59y36UR9Dqu7CqLtU22zInpQ+/zWnmrlci/186hVWlBLttuwmf/Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -947,6 +947,48 @@ Open source, Projects, and Blogging</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">kubesimplify/ksctl</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a80b79b</div>
+                                        <div class="message">Update main.go</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dipankardas011/dipankardas-portfolio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6d20f5</div>
+                                        <div class="message">diary: wrote about today
+
+Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1005,40 +1047,6 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                         <i>@dipankardas011 if someone is not working in this issue i am going to add gifs for this..v</i>
                                         sure you can start working on this
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#98 feat(CLI / API):  while creating aks-cluster ask user for  number of nodes that he wanted according to there subscription</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Horiodino in <span class="repo">kubesimplify/ksctl</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#104 enhancement(API): support to create clusters specific Kubernetes version</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">kubesimplify/ksctl</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1352,7 +1360,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.43718592964825 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="73.21608040201005 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1389,9 +1397,9 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 95.8k out of 115m users</span>
+                                    <span class="gh">ranked 94.6k out of 115m users</span>
                                 </div>
-                                <div class="text">Followed by 94 users</div>
+                                <div class="text">Followed by 95 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1404,7 +1412,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.27127127127127 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.891891891891895 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1427,9 +1435,9 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 138k out of 401m repositories</span>
+                                    <span class="gh">ranked 136k out of 401m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 267 stars</div>
+                                <div class="text">Maintaining a repository with 271 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1765,7 +1773,7 @@ Signed-off-by: Dipankar Das &lt;dipankardas0115@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2023, 18:47:05 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 May 2023, 07:34:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
