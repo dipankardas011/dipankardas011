@@ -18,8 +18,13 @@
 <p align = "center">
 
 - 🎓 I’m an Open-Source and Blogging enthusiast
-- 💻 I am passionate about DevOps, Operating System, CNCF Projects & Enjoy learning new things
+- 💻 I am passionate about DevOps, Cloud related technologies, CNCF Projects & Enjoy learning new things
 - 🌱 Open Source, Applying the Concepts, and Blogging
+  - Achievements: 
+    - a PR wrangler in sig-docs
+    - OSS Kubernetes code contributions and many CNCF related projects like monokle, kubescape, etc
+    - Create a few projects based on software development, DevOps knowledge I attained
+    - Helped the community around me
 - Portfolio Link: https://dipankardas-portfolio.pages.dev/
 - 📃 [Resume Link(Latest)](https://github.com/dipankardas011/dipankardas011/blob/htmlSRC/Resume.pdf)
 </p>
