@@ -3,7 +3,7 @@
 
 
 <h4 align="center">
-  Kubesimplify Ambassador and ksctl mainatiner, contributor Kubernetes, CNCF projects, final year B.Tech. CS student
+  A DevOps Person who loves 🧑‍💻. Kubesimplify Ambassador and ksctl maintainer, contributor Kubernetes, CNCF projects, B.Tech. CSE student
 </h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankardas011&label=Profile%20views&color=0e75b6&style=flat" alt="dipankardas011" /> </p>
