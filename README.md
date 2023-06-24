@@ -25,6 +25,7 @@
     - OSS Kubernetes code contributions and many CNCF related projects like monokle, kubescape, etc
     - Create a few projects based on software development, DevOps knowledge I attained
     - Helped the community around me
+    - almost got selected for LFX mentorship
 - Portfolio Link: https://dipankardas-portfolio.pages.dev/
 - 📃 [Resume Link(Latest)](https://github.com/dipankardas011/dipankardas011/blob/htmlSRC/Resume.pdf)
 </p>
