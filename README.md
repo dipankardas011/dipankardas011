@@ -21,7 +21,7 @@
 - 💻 I am passionate about DevOps, Cloud related technologies, CNCF Projects & Enjoy learning new things
 - 🌱 Open Source, Applying the Concepts, and Blogging
   - Achievements: 
-    - Won Hackathon `Napptive + WeMakeDevs Cloud Native Hackathon`
+    - Won Hackathon **Napptive + WeMakeDevs Cloud Native Hackathon**
     - a PR wrangler in sig-docs
     - OSS Kubernetes code contributions and many CNCF related projects like monokle, kubescape, etc.
     - Create Projects based on software development, DevOps knowledge I attained and CNCF tooling which I used and build some
