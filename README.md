@@ -27,8 +27,8 @@
     - Create Projects based on software development, DevOps knowledge I attained and CNCF tooling which I used and build some
     - Helped the surrounding community
     - almost got selected for LFX mentorship
-- Portfolio Link: https://dipankardas-portfolio.pages.dev/
-- 📃 [Resume Link(Latest)](https://github.com/dipankardas011/dipankardas011/blob/htmlSRC/Resume.pdf)
+- Portfolio Link: https://dipankar-das.com
+- 📃 [Resume Link(Latest)](https://raw.githubusercontent.com/dipankardas011/dipankardas011/main/Resume.pdf)
 </p>
 
 [![Twitter](https://img.shields.io/badge/DipankarDas011-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DipankarDas011)
