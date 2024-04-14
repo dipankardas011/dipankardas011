@@ -3,7 +3,7 @@
 
 
 <h4 align="center">
-  A DevOps Person who loves 🧑‍💻. Kubesimplify Ambassador and ksctl maintainer, contributor Kubernetes, CNCF projects, B.Tech. CSE student
+  A DevOps Person who loves 🧑‍💻. ksctl Creator, contributor Kubernetes, CNCF projects, B.Tech. CSE student
 </h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankardas011&label=Profile%20views&color=0e75b6&style=flat" alt="dipankardas011" /> </p>
@@ -33,7 +33,7 @@
 
 [![Twitter](https://img.shields.io/badge/DipankarDas011-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DipankarDas011)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankar-das-1324b6206/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dipsonu10@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:outlook@dipankar-das.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoLkuTgWPsQSeh0BhDFgXVw)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipankardas011.hashnode.dev/)
 
