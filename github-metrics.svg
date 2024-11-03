@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    157 views in last two weeks
+                                    156 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -621,37 +621,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 25.10596823439318%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">31%</span>
+                                <div class="bar" style="width: 24.3561110863202%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 6.767048901530597%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.564932817307216%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.8376015673950015%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 1.2908532400980754%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 0.8370048434096808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Shell</span>
+                                <div class="bar" style="width: 0.8125843477170186%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.39881053018926094%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.38689898294291675%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Astro</span>
-                                <div class="bar" style="width: 0.27847119314960866%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.27015390330178723%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HCL</span>
-                                <div class="bar" style="width: 0.024266775403037327%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.02354198300201289%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1318,7 +1318,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.16803559206025 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1458,7 +1458,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 88.2k out of 148m users</span>
+                                    <span class="gh">ranked 88.3k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 130 users</div>
                             </div>
@@ -1496,7 +1496,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 123k out of 217m repositories</span>
+                                    <span class="gh">ranked 123k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 382 stars</div>
                             </div>
@@ -1616,7 +1616,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 982k out of 217m repositories</span>
+                                    <span class="gh">ranked 983k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -1799,7 +1799,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2024, 07:02:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2024, 18:37:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
