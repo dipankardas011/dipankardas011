@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2763" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2789" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1570 issue comments
+                            1571 issue comments
                         </div>
                     </section>
                     <section>
@@ -376,14 +376,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 83 commits)</small>
+                    <small class="h-details">(computed from last 84 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.3 characters per line of code written</li>
+                        <li>Has approximately 42.7 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -392,8 +392,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -427,8 +427,8 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -487,8 +487,8 @@
                             18
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -523,13 +523,13 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 17.391304347826086px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 15.217391304347828px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">23</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">22</span>
+                                <div class="bar" style="height: 47.82608695652174px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -538,8 +538,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 6.521739130434782px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 13.043478260869565px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -559,17 +559,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 27.12028197362337%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 27.590184169075776%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 3.2184415613505424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.1837882611291968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 1.4829534273138747%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.3734221011781544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -893,20 +893,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ksctl/cli</span>
+                                        Commented on
+                                        <span class="issue">#56 feat(telemetry): feature added</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/telemetry</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c9f231e</div>
-                                        <div class="message">added the telemetry send for all the sub command
-
-Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;</div>
+                                    <div>opened by dipankardas011 in <span class="repo">ksctl/cli</span></div>
+                                    <div class="comment">
+                                        <i>also we need to think of working in migrations any suggestions on how to make this work @Horiodino</i>
+                                        This is needed becuase by default telelemetry needs to be enabled unless specified to turn it off
                                     </div>
                                 </div>
                             </section>
@@ -919,16 +917,30 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#974 <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> 👷🏼 ⛏️  🏗️  Organization Support </span>
+                                        <span class="issue">#56 feat(telemetry): feature added</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Xieyt in <span class="repo">rtCamp/EasyDash</span></div>
-                                    <div class="comment">
-                                        <b>Code changes in the <code>(site|server).json</code></b>
-                                        https://github.com/rtCamp/EasyDash/pull/974/commits/a14a466ed9adc1dc40db23ac04a03921f16a6d21
-cc @Xieyt @iamimmanuelraj please take a 📓
+                                    <div>opened by dipankardas011 in <span class="repo">ksctl/cli</span></div>
+                                    <div class="comment">also we need to think of working in migrations
+any suggestions on how to make this work @Horiodino</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#56 feat(telemetry): feature added</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by dipankardas011 in <span class="repo">ksctl/cli</span></div>
+                                    <div class="comment">need to create the subcommand to enable/disable telemetry</div>
                                 </div>
                             </section>
                         </div>
@@ -946,13 +958,8 @@ cc @Xieyt @iamimmanuelraj please take a 📓
                                 <div class="details">
                                     <div>on branch <span class="code">feat/org-support</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a14a466</div>
-                                        <div class="message">feat: added site and server doctype doctype depends on updates
-
-this introduces some more variables in the frappe.boot for the frontend
-so that its easier to have easier assertions
-
-Refer: #1000
+                                        <div class="sha">#7e82fb5</div>
+                                        <div class="message">changes in site.json
 
 Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;</div>
                                     </div>
@@ -973,33 +980,8 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                 <div class="details">
                                     <div>on branch <span class="code">feat/org-support</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d06ca05</div>
-                                        <div class="message">changes
-
-Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ksctl/telemetry</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1a63fbb</div>
-                                        <div class="message">added geo location info
-
-tried out posthog default fields modification but they where not
-changing
+                                        <div class="sha">#9acf1ad</div>
+                                        <div class="message">fix for site site.json not showing some components to org-admin
 
 Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;</div>
                                     </div>
@@ -1181,7 +1163,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.40965092402462 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.62183436002735 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1321,7 +1303,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 95k out of 157m users</span>
+                                    <span class="gh">ranked 95.1k out of 157m users</span>
                                 </div>
                                 <div class="text">Followed by 130 users</div>
                             </div>
@@ -1336,7 +1318,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.3033033033033 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.148148148148145 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1359,9 +1341,9 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 120k out of 234m repositories</span>
+                                    <span class="gh">ranked 120k out of 230m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 409 stars</div>
+                                <div class="text">Maintaining a repository with 408 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1616,7 +1598,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2025, 07:02:59 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2025, 18:39:42 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
