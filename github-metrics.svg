@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1880" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1916" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.keyword{color:#b44418}.token.boolean,.token.string{color:#2777aa}.token.property{color:#48428a}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7692 Commits
+                            7693 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1684 issue comments
+                            1686 issue comments
                         </div>
                     </section>
                     <section>
@@ -300,12 +300,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 86 commits)</small>
+                    <small class="h-details">(computed from last 87 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 52.1 characters per line of code written</li>
+                        <li>Has approximately 51.7 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -317,7 +317,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -362,77 +362,77 @@
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             09
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">15</span>
+                            <span class="value">12</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 23.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             19
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             22
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             23
                         </div>
                     </div>
@@ -442,8 +442,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">21</span>
-                                <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">18</span>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -467,8 +467,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">11</span>
-                                <div class="bar" style="height: 20.37037037037037px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">15</span>
+                                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -483,37 +483,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Astro</span>
-                                <div class="bar" style="width: 42.576123879181075%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 41.97875807132944%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 18.380716304026276%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 18.122825015589484%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 4.126041762299681%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 5.240480357250618%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 1.0549724066876804%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.0401705791241729%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 0.5339127418877702%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5264216603302959%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 0.49698564739725193%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4900126727415365%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.02897042772184309%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.028563957113833405%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -560,7 +560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/A2A</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open protocol enabling communication and interoperability between opaque agentic applications.</div>
@@ -587,14 +587,14 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        1.10k
+                                        1.11k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        116
+                                        117
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -730,7 +730,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        181
+                                        182
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -841,12 +841,10 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/1300</span></div>
                                     <div class="commit">
-                                        <div class="sha">#db399b2</div>
-                                        <div class="message">added a validation check for ssh key there or not when import server
+                                        <div class="sha">#737fe71</div>
+                                        <div class="message">added the patch for non mandatory fields
 
-Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;
-Co-authored-by: L0RD-ZER0 &lt;68327382+L0RD-ZER0@users.noreply.github.com&gt;
-Co-authored-by: Immanuel Raj &lt;iamimmanuelraj@gmail.com&gt;</div>
+Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -859,18 +857,173 @@ Co-authored-by: Immanuel Raj &lt;iamimmanuelraj@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1308 feat: new workflow for user onboarding for import server with EE and import server without EE</span>
+                                        <span class="issue">#1300 [Backend + Frontend] Simplify Server Page 🚨</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by dipankardas011 in <span class="repo">rtCamp/EasyDash</span></div>
+                                    <div>opened by MiteshShah in <span class="repo">rtCamp/EasyDash</span></div>
                                     <div class="comment">
-                                        Now We have 2 whitelisted functions (Custom Doctype)
-                                        <code>easydash.easydash.doctype.server.server.get_easydash_public_key</code>
-                                        -&gt; returns public key of easydash
-                                        <code>easydash.easydash.doctype.server.server.can_we_can_ssh_import</code>
-                                        -&gt; checks if the server going to be imported has our ssh key in
+                                        <b>Changes in Server doctype user flow</b>
+                                        <i>
+                                            [!IMPORTANT]
+Make sure you create a map where
+                                            <code>Imported Server</code>
+                                            translates to
+                                            <code>Custom</code>
+                                            value in cloud provider field in server
+cc @nirajgiriXD
+                                        </i>
+                                        when user chooses
+Case 1.)
+                                        <code>cloud_provider == 'Custom'</code>
+                                        Means server falls under BYOI (Bring your own Instance). and we run all ansible play tasks.
+
+Case 2.) Only use this when we are onboarding a server with existing EasyEngine setup
+                                        <code>cloud_provider == 'Custom'</code>
+                                        <code>is_imported_with_ee == 1</code>
+                                        Means server falls under BYOI (Bring your own Instance). and we run only subset of ansible tasks which are necessary.
+                                        <i>[!NOTE]
+We need to run a check where if user selects either case 1 or 2 we need to validate if the ssh connectivity between ed and server is successful for that we have created 2 endpoints, Below contain more information</i>
+                                        <b>easydash.easydash.doctype.server.server.get_easydash_public_key</b>
+                                        Retrieves the EasyDash public SSH key that can be used for server integration and authentication.
+                                        <b>Endpoint</b>
+                                        <code>GET /api/method/easydash.easydash.doctype.server.server.get_easydash_public_key</code>
+                                        <b>Authentication</b>
+                                        Requires organization admin permissions.
+
+
+
+Header
+Required
+Description
+
+
+
+Authorization
+Yes
+Standard Frappe authentication
+                                        <b>Request Body</b>
+                                        No request body required.
+                                        <b>Responses</b>
+                                        <b>Success Response</b>
+                                        Status Code: 200 OK
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"message"</span><span class="token operator">:</span> <span class="token string">"ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExamplePublicKeyContentHere"</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        <b>Error Responses</b>
+                                        Status Code
+Description
+Possible Cause
+
+
+
+401
+Unauthorized
+User is not authenticated or not an organization admin
+
+
+500
+Internal Server Error
+SSH key not found in site configuration or invalid key format
+                                        <b>Notes</b>
+                                        This endpoint is intended for frontend use to display the public SSH key
+The key is the system-wide EasyDash public SSH key used for server authentication
+This key should be added to the
                                         <code>~/.ssh/authorized_keys</code>
+                                        file on servers you want to import
+                                        <b>easydash.easydash.doctype.server.server.can_we_can_ssh_import</b>
+                                        Checks if SSH connection is possible to a server with the specified IP address.
+                                        <b>Endpoint</b>
+                                        <code>POST /api/method/easydash.easydash.doctype.server.server.can_we_can_ssh_import</code>
+                                        <b>Authentication</b>
+                                        Requires organization admin permissions.
+
+
+
+Header
+Required
+Description
+
+
+
+Authorization
+Yes
+Standard Frappe authentication
+                                        <b>Request Body</b>
+                                        JSON object with the following fields:
+
+
+
+Field
+Type
+Required
+Description
+
+
+
+ip
+string
+Yes
+IPv4 address to test SSH connectivity
+
+
+with_ee
+bool
+Yes
+Which command to check for ssh connectivity (if true
+                                        <code>$ ee --version</code>
+                                        , else
+                                        <code>$ exit 0</code>
+                                        <b>Example Request</b>
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"ip"</span><span class="token operator">:</span> <span class="token string">"123.45.67.89"</span><span class="token punctuation">,</span> <span class="token property">"with_ee"</span><span class="token operator">:</span> True<span class="token punctuation">,</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        <b>Responses</b>
+                                        <b>Success Response</b>
+                                        Status Code: 200 OK
+If SSH connection is possible:
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"message"</span><span class="token operator">:</span> <span class="token null keyword">null</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        If SSH connection is not possible:
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"message"</span><span class="token operator">:</span> <span class="token string">"timeout"</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        or
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"message"</span><span class="token operator">:</span> <span class="token string">"[1-255] ssh-return"</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        or
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"message"</span><span class="token operator">:</span> <span class="token string">"internal-error"</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        <b>Error Responses</b>
+                                        Status Code
+Description
+Possible Cause
+
+
+
+400
+Bad Request
+Invalid IPv4 address format
+
+
+401
+Unauthorized
+User is not authenticated or not an organization admin
+
+
+500
+Internal Server Error
+Server configuration issue
+                                        <b>Notes</b>
+                                        The endpoint checks if the EasyDash system can establish an SSH connection to the server using the system SSH key
+The function also verifies if EasyEngine is installed on the target server
+Returns
+                                        <code>null</code>
+                                        when SSH connection is successful and EasyEngine is properly installed
+Returns error strings when issues are encountered: "timeout", "command-not-found", or "internal-error"
                                     </div>
                                 </div>
                             </section>
@@ -889,8 +1042,8 @@ Co-authored-by: Immanuel Raj &lt;iamimmanuelraj@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">feature/1300</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e3ebf3</div>
-                                        <div class="message">feat: new endpoint where you get easydash public key
+                                        <div class="sha">#d20fb90</div>
+                                        <div class="message">fixed the comment in server operations
 
 Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;</div>
                                     </div>
@@ -911,10 +1064,8 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                                 <div class="details">
                                     <div>on branch <span class="code">feature/1300</span></div>
                                     <div class="commit">
-                                        <div class="sha">#df9bf49</div>
-                                        <div class="message">resolved flow in import ee
-
-Refer: https://github.com/rtCamp/EasyDash/pull/1308#discussion_r2058664429
+                                        <div class="sha">#fcc8eed</div>
+                                        <div class="message">removed unnecessary file
 
 Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com&gt;</div>
                                     </div>
@@ -925,16 +1076,282 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#76 [Enhancement]: Option to customize the CNI plugin helm chart values or some options would also be helpful</span>
+                                        Commented on
+                                        <span class="issue">#1300 [Backend + Frontend] Simplify Server Page 🚨</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">ksctl/cli</span></div>
+                                    <div>opened by MiteshShah in <span class="repo">rtCamp/EasyDash</span></div>
+                                    <div class="comment">
+                                        <b>Changes in API endpoint for EasyEngine &lt;-&gt; Easydash</b>
+                                        <b>add_server</b>
+                                        Adds a new server to EasyDash through external integration.
+                                        <b>Endpoint</b>
+                                        <code>POST /api/method/easydash.easydash.doctype.server.server.add_server</code>
+                                        <b>Authentication</b>
+                                        Requires an organization access token in the request headers.
+
+
+
+Header
+Required
+Description
+
+
+
+Token
+Yes
+Organization's server access token
+                                        <b>Request Body</b>
+                                        JSON object with the following fields:
+
+
+
+Field
+Type
+Required
+Description
+
+
+
+hostname
+string
+Yes
+Server hostname
+
+
+organization
+string
+Yes
+Organization slug/name
+
+
+public_ipv4
+string
+Yes
+Public IPv4 address of the server
+                                        <b>Example Request</b>
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"hostname"</span><span class="token operator">:</span> <span class="token string">"server-name"</span><span class="token punctuation">,</span>
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        <b>Responses</b>
+                                        <b>Success Response</b>
+                                        Status Code: 200 OK
+Returns the created server document.
+                                        <b>Error Responses</b>
+                                        Status Code
+Description
+Possible Cause
+
+
+
+400
+Bad Request
+Missing required fields or invalid JSON data
+
+
+401
+Unauthorized
+Missing or invalid token
+
+
+404
+Not Found
+Organization not found
+
+
+409
+Conflict
+Duplicate entry
+
+
+5XX
+exception
+mostly frappe.throw or unhandled exception
+                                        <b>Notes</b>
+                                        The server will be created with Cloud Provider set to "Custom" and marked as imported with EasyEngine
+If hostname doesn't contain a domain format, ".easyengine" will be appended
+The server will automatically trigger a metadata refresh after creation
+                                        <b>add_site</b>
+                                        Creates a new site through external integration, bypassing standard document events.
+                                        <b>Endpoint</b>
+                                        <code>POST /api/method/easydash.easydash.doctype.site.site.add_site</code>
+                                        <b>Authentication</b>
+                                        Requires an organization access token in the request headers.
+
+
+
+Header
+Required
+Description
+
+
+
+Token
+Yes
+Organization's server access token
+                                        <b>Request Body</b>
+                                        JSON object with the following fields:
+
+
+
+Field
+Type
+Required
+Description
+
+
+
+domain
+string
+Yes
+Site domain name (FQDN format)
+
+
+server
+string
+Yes
+Valid Server docname to host the site
+
+
+site_type
+string
+Yes
+Site type: "wp", "php", or "html"
+
+
+organization
+string
+Yes
+Organization docname
+
+
+enabled
+boolean
+Yes
+Whether site is enabled (If its not then status is set as Disabled)
+
+
+alias_domains
+array
+Yes
+List of alias domains
+
+
+ssl
+boolean
+Yes
+Whether SSL is enabled
+
+
+http_basic_auth
+boolean
+Yes
+Whether HTTP Basic Auth is enabled
+
+
+admin_tools
+boolean
+Yes
+Whether admin tools are enabled
+
+
+mailhog
+boolean
+Yes
+Whether mailhog is enabled
+
+
+php_version
+string
+Yes
+PHP version (for wp/php sites)
+
+
+wp_version
+string
+Yes
+WordPress version (for wp sites)
+
+
+public_directory
+string
+Yes
+Public directory path
+
+
+enable_database
+boolean
+No
+Whether database is enabled (default: true for php)
+
+
+redis_cache
+boolean
+No
+Whether Redis cache is enabled (default: false)
+
+
+table_prefix
+string
+No
+Database table prefix (WordPress only)
+
+
+multisite
+string
+No
+WordPress multisite type: "subdom" or "subdir"
+                                        <b>Example Request</b>
+                                        <code class="language-multiline language-json" xml:space="preserve"><span class="token punctuation">{</span>
+  <span class="token property">"domain"</span><span class="token operator">:</span> <span class="token string">"example.com"</span><span class="token punctuation">,</span>
+<span class="token trimmed">(15 more lines were trimmed)</span></code>
+                                        <b>Responses</b>
+                                        <b>Success Response</b>
+                                        Status Code: 200 OK
+Returns the created site document.
+                                        <b>Error Responses</b>
+                                        Status Code
+Description
+Possible Cause
+
+
+
+400
+Bad Request
+Missing required fields or invalid JSON data
+
+
+401
+Unauthorized
+Missing or invalid token
+
+
+404
+Not Found
+Organization not found
+
+
+409
+Conflict
+Duplicate entry
+
+
+5XX
+exception
+mostly frappe.throw or unhandled exception
+                                        <b>Notes</b>
+                                        The site will be created with
+                                        <code>is_imported_ee</code>
+                                        set to 1
+Site status will be set to "Live" if enabled is true, otherwise "Disabled"
+The function will automatically enqueue a data refresh for the new site
+
+cc @mrrobot47
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -961,7 +1378,7 @@ Signed-off-by: Dipankar Das &lt;65275144+dipankardas011@users.noreply.github.com
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2025, 18:42:21 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2025, 07:03:26 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
