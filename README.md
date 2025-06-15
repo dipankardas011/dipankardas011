@@ -33,8 +33,6 @@
 - ☸️ Contributed to Kubernetes, Monokle, Kubescape, and other CNCF projects
 - 🛠️ Created several tools and systems using CNCF tools & custom DevOps solutions
 - 👥 Actively supporting and mentoring in open-source communities
-- 🧑‍🎓 Almost selected for **GSoC** and **LFX Mentorship**
-
 ---
 
 ### 📫 Connect With Me
