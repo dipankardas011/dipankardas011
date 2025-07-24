@@ -1,0 +1,217 @@
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,   
+  urlcolor=blue,
+}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Dipankar Das}} & Email: \href{mailto:}{dipankar@dipankar-das.com}\\
+  \href{https://dipankar-das.com/}{Portfolio: dipankar-das.com} & Mobile:~~~+91-9546515939 \\
+  \href{https://github.com/dipankardas011}{Github: ~~github.com/dipankardas011} \\
+  \href{https://www.linkedin.com/in/dipankar-das-1324b6206/}{Linkedin: ~~linkedin.com/in/dipankar-das-1324b6206} \\
+\end{tabular*}
+
+%-----------EDUCATION-----------------
+\section{~~Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {KIIT University}{Odisha, India}
+      {Bachelor of Technology - Computer Science;  GPA: 9.17}{Aug 2020 - June 2024}
+    \resumeSubHeadingListEnd
+	    
+\vspace{-5pt}
+\section{Skills Summary}
+	\resumeSubHeadingListStart
+        \resumeSubItem{Languages}{~~~~~~Go, C, Python, Rust, Java, JavaScript, C++}
+        \resumeSubItem{Tools}{~~~~~~~~~~~~~~Kubernetes, Docker, MongoDB, MariaDB, NATS, Redis, Jenkins, Ansible, Terraform, Vault}
+        \resumeSubItem{Concepts}{~~~~~~~~Event-driven systems, CQRS, DDD, Event Sourcing (familiar)}
+        \resumeSubItem{Platforms}{~~~~~~~AWS, Azure, Hetzner, GCP, Linux}
+        \resumeSubItem{Soft Skills}{~~~~~~~Project Maintainer, Planing, Tech. Writing, Time Management and Automating things}
+    \resumeSubHeadingListEnd
+\vspace{-5pt}
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{rtCamp}{Pune, India}
+    {DevOps Engineer}{Jan 2024 - Present}
+    \resumeItemListStart
+        \resumeItem{Github actions}
+          {from custom runners to release pipelines, ghcr}
+        \resumeItem{Nginx, HaProxy \& OpenResty}
+          {working with various configurations}
+        \resumeItem{Docker rootless \& Kubernetes}{POC on docker and GKE standard cluster, GitOps, Terraform}
+        \resumeItem{Fail2ban, CloudFlare}{configurations for banning using abuseip and cloudflare deny specific IPs}
+        \resumeItem{Frappe, Python}{Developing a app for automating provisioning platform for Workdpress, php, nginx websites using ansible and pulumi}
+        \resumeItem{Built and managed dash.easyengine.io}{using MariaDB and Terraform for infrastructure automation.}
+        \resumeItem{Client tasks}{Handled multiple client tasks involving custom GitHub Actions pipelines and Terraform modules.}
+      \resumeItemListEnd
+
+  \vspace{2pt}
+    \resumeSubheading{Viamagus}{Remote}
+    {DevMLSecOps Consultant POC (Freelance)}{Feb 2025 -- Apr 2025}
+    \resumeItemListStart
+      \resumeItem{OWASP ZAP}{Designed and deployed as a proxy-based security testing solution. For their QA team}
+      \resumeItem{Snyk}{Integrated Snyk into CI pipelines for vulnerability scanning.}
+      \resumeItem{AI}{Optimized internal LLM-based projects: containerization, network/disk performance.}
+      \resumeItem{Deploying OSS LLM Models}{Deployed vLLM and ollama with AWS Auto Scaling Groups and VPC PrivateLink infrastructure.}
+    \resumeItemListEnd
+
+  \vspace{2pt}
+    \resumeSubheading{Viamagus}{Remote}
+    {DevOps POC (Intern)}{Feb 2023 - Sep 2023}
+    \resumeItemListStart
+        \resumeItem{Automate Build and Publish for React-Native app on Android \& iOS}
+          {automate staging environment to build and deploy them to Android, iOS}
+        \resumeItem{Snyk Integration in Jenkins Jobs}{Addition of snyk for vulnerability scan and send the report through emails}
+        \resumeItem{Kubernetes to manage containers}{EKS, AKS, K8s Gateway API}
+    \resumeItemListEnd
+
+\vspace{2pt}
+    \resumeSubheading
+		{Open Source}{Remote}
+		{Self-Employed (Part-time) worked on Rust, Go, JavaScript, CI/CD Pipelines, Documentation}{Feb 2022 -  Present}
+		\resumeItemListStart
+        \resumeItem{For Detailed view}{\href{https://dipankar-das.com/posts/projects/\#my-open-source-contributions}{Link to Detailed view}}
+		\resumeItemListEnd
+\resumeSubheading{Technical Blogs}{Remote}
+    {Self-Employed}{Mar 2022 - Present}
+    \resumeItemListStart
+        \item {All the Blogs written on Cloud-Native technology (from security to deployment, troubleshooting to containerization)}\vspace{-2pt}
+        \item {\href{https://dipankar-das.com/posts/blogs/#tech-blogs}{Link to Detailed view}}
+      \resumeItemListEnd
+      
+\vspace{2pt}
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+\section{Projects \href{https://dipankar-das.com/posts/projects/\#my-project-collection}{Detailed view}}
+\resumeSubHeadingListStart
+
+\resumeSubheading{Ksctl - \href{https://ksctl.com}{Github Link}}{Cloud Agnostic Kubernetes management tool}
+    {Founder \& Lead Developer}{Sep 2022 - Present}
+    \begin{description}[font=$\bullet$]
+        \item {A Generic Kubernetes Management CLI tool for various cloud providers}
+        \item {Worked with NATS and event-driven patterns in internal tools.}
+        \item {Integrated with MongoDB, SQLite (Turso), Docker, and Kubernetes APIs.}
+        \item {Tech: Go, Kubernetes, AWS, Azure, Civo, GCP, Docker, Cosign, System Design}
+    \end{description}
+
+\resumeSubheading{WAE - WASI App Experiment - {\href{https://dipankar-das.com/posts/projects/#wae-wasi-app-experiment}{Link}}}{AI and WASM}
+    {Creator and Maintainer, Wattime, OpenAI, WASM}{Jul 2024 - Aug 2024}
+    \begin{description}[font=$\bullet$]
+        \item {Built a modular WebAssembly (WASI) app using multiple language runtimes for end-to-end automation.}
+        \item {Demonstrated multi-service orchestration with persistent local storage and cross-component comms.}
+        \item {was able to achieve multi language code base on single build system by using WASI@v2}
+        \item {Tech: Rust, WASM, Python, OpenAI, WattTime, GitHub API}
+    \end{description}
+
+\resumeSubHeadingListEnd
+
+%-----------Certificates-----------------
+\vspace{-5pt}
+
+\section{Certificates}
+\begin{description}[font=$\bullet$]
+\item {All certificates and badges \href{https://dipankar-das.com/posts/aboutme/#certificates-and-badges}{certificates}}
+
+\end{description}
+
+%-----------LANGUAGES-----------------
+\vspace{-5pt}
+
+\section{Languages}
+\begin{description}[font=$\bullet$]
+\item {English - Native or bilingual proficiency}
+
+\end{description}
+
+%-----------VOLUNTEER-----------------
+\vspace{-5pt}
+\section{Volunteer Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+    {CNCF Green Reviews (Contributor)}{Global}
+    {Aim to measure carbon footprint of CNCF projects}{}
+    \begin{itemize}[leftmargin=*]
+        \item Reviewed CNCF projects for sustainability and environmental impact.
+        \item Worked on SCI scoring and Golang monitoring tooling.
+    \end{itemize}
+    \resumeSubheading
+    {Kubesimplify (Ambassador)}{Global}
+    {Simplify Cloud native concepts | created and maintained a project, tech. blogs}{}
+
+\resumeSubHeadingListEnd
+
+\end{document}
