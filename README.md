@@ -2,37 +2,38 @@
 
 <p align="center">
   <b>Platform Engineer | Open Source Contributor | Creator of <a href="https://github.com/ksctl">Ksctl</a></b><br>
-  Go & Python Developer • DevOps Enthusiast • Building for a Greener Future 🌱
+  Go & Python Developer • DevOps & Cloud-Native Enthusiast • Building Sustainable Systems 🌱
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧑‍💻 **Profession**: Platform Engineer building reliable, scalable, and sustainable systems
-- 🌐 **Creator** of [ksctl](https://github.com/ksctl) — Simplified Kubernetes Cluster Lifecycle Management
-- 🛠️ **Tech Stack**: Go, Python, DevOps, Kubernetes, CNCF Ecosystem
-- ✍️ I love writing blogs, building open source tools, and applying cloud-native concepts in real-world scenarios
+- 🧑‍💻 **Profession**: Platform Engineer creating **reliable, scalable, and sustainable systems** that automate repetitive tasks.  
+- 🌐 **Creator** of [Ksctl](https://github.com/ksctl) — a cloud-agnostic, carbon-aware Kubernetes cluster lifecycle management tool.  
+- 🛠️ **Tech Stack**: Go, Python, Kubernetes, DevOps, Terraform, CNCF ecosystem tools, GitHub Actions, Dagger.  
+- ✍️ I love writing blogs, mentoring in open source communities, and applying **cloud-native practices** to real-world projects.  
+- 🌱 Passionate about **green computing**, sustainable cloud infrastructure, and efficiency-driven software engineering.  
 
 ---
 
 ### 🌱 Interests & Values
 
-- 💡 Passionate about Cloud-Native technologies and improving developer experience
-- 🌍 Committed to a greener tech future through sustainable system design
-- 🧠 Always learning, always sharing — Open source, communities, and content
+- 💡 **Cloud-Native & DevOps:** Improving developer experience and automation.  
+- 🌍 **Sustainability:** Designing infrastructure with **carbon footprint reduction** in mind.  
+- 🧠 **Continuous Learning & Sharing:** Open source contributions, technical content, community engagement.  
 
 ---
 
 ### 🏆 Achievements
 
-- ✅ **CNCF TAG Environmental Sustainability** Green Contributor
-- 🧪 Contributing to **Go WASI Preview 2** support (@golang)
-- 🥇 Winner — **Napptive + WeMakeDevs Cloud Native Hackathon**
-- 📚 PR Wrangler in Kubernetes **SIG-Docs**
-- ☸️ Contributed to Kubernetes, Monokle, Kubescape, and other CNCF projects
-- 🛠️ Created several tools and systems using CNCF tools & custom DevOps solutions
-- 👥 Actively supporting and mentoring in open-source communities
+- ✅ **CNCF TAG Green Contributor** – championing environmental sustainability in cloud-native projects.  
+- 🧪 Contributed to **Go WASI Preview 2 support** (@golang).  
+- 🥇 Winner — **Napptive + WeMakeDevs Cloud Native Hackathon** (Track 2).  
+- 📚 PR Wrangler in **Kubernetes SIG-Docs**; active contributor to CNCF projects like Kubernetes, Monokle, Kubescape.  
+- ☸️ Built **Ksctl**, internal automation pipelines, and tools improving cloud-native operations & DevOps workflows.  
+- 👥 Mentoring and actively participating in **open-source communities**.  
+
 ---
 
 ### 📫 Connect With Me
@@ -56,9 +57,9 @@
 
 ### 🧭 More Links
 
-- 🧳 [Portfolio Website](https://dipankar-das.com)
-- 📄 [Latest Resume (PDF)](https://raw.githubusercontent.com/dipankardas011/dipankardas011/main/Resume.pdf)
+- 🧳 [Portfolio Website](https://dipankar-das.com)  
+- 📄 [Latest Resume (PDF)](https://raw.githubusercontent.com/dipankardas011/dipankardas011/main/Resume.pdf)  
 
 ---
 
-<sub>💬 Let’s connect, collaborate, and build a better and greener cloud-native future together!</sub>
+<sub>💬 Let’s connect, collaborate, and build a **greener, cloud-native future** together!</sub>
