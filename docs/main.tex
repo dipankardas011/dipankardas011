@@ -89,8 +89,7 @@
 %-----------PROFESSIONAL SUMMARY-----------------
 \section{Professional Summary}
 \vspace{5pt}
-% --- FIX #2: REMOVED THE UNNECESSARY \item{...} WRAPPER ---
-\small{A results-driven DevOps Engineer with 2+ years of experience designing, automating, and managing resilient infrastructure for distributed systems. Passionate about building robust CI/CD pipelines and infrastructure-as-code solutions to support High Available \& Scalable workloads. Proven ability to lead complex open-source projects, architect scalable cloud-agnostic tools, and optimize deployments to improve the teams velocity while being mindful of strict budget constraints.}
+\small{Systems-focused DevOps Engineer with 2+ years of experience specializing in cloud-native architecture, infrastructure modernization, and high-concurrency distributed systems. Architected multi-cloud orchestration engines in \textbf{Go} and led zero-downtime migrations for \textbf{Fortune 500} and \textbf{FinTech} enterprises. Proven track record in optimizing cloud spend by \textbf{20\%} via advanced FinOps strategies and enhancing reliability through \textbf{OpenTelemetry}. Founder of the \textbf{ksctl} ecosystem, dedicated to building developer-centric efficiency tools and scalable multi-cloud infrastructure.}
 \vspace{5pt}
 
 
@@ -111,46 +110,73 @@
   \resumeSubHeadingListStart
     \resumeSubheading{rtCamp}{Pune, India}
     {DevOps Engineer}{Jan 2024 - Present}
-    \resumeItemListStart
-        \resumeItem{Github actions}
-          {from custom runners to release pipelines, ghcr}
-        \resumeItem{Nginx, HaProxy \& OpenResty}
-          {working with various configurations}
-        \resumeItem{Docker rootless \& Kubernetes}{AKS, EKS, GKE, Self-Managed cluster, GitOps, Terraform, WordPress, Frappe Deployment}
-        \resumeItem{Fail2ban, CloudFlare}{configurations for banning using abuseip and cloudflare deny specific IPs}
-        \resumeItem{Frappe, Python}{Developing a app for automating provisioning platform for WordPress, PHP, NGINX websites using Ansible and Pulumi}
-        \resumeItem{Built and managed dash.easyengine.io}{WordPress Site Management platform.}
-        \resumeItem{Client tasks}{Handled multiple client tasks involving custom GitHub Actions pipelines and Terraform modules.}
+  \resumeItemListStart
+        \resumeItem{Enterprise IaC \& Migration (Cox Automotive)}
+          {Spearheaded a zero-downtime migration of legacy AWS infrastructure into \textbf{Terraform}. Remediated critical gaps by importing manually managed \textbf{CloudFront} distributions, \textbf{S3} assets, and \textbf{WAF} policies into a standardized multi-environment GitOps workflow, ensuring 100\% configuration consistency and eliminating "Click-ops". Established a rigorous \textbf{Plan-Review-Apply} SOP for infrastructure changes, ensuring zero configuration drift across multi-cloud production environments.}
+        
+        \resumeItem{Cloud-Native Scaling \& Observability}
+          {Architected the migration of a monolithic \textbf{Frappe/ERPNext} platform to a distributed \textbf{Kubernetes} cluster for a global FinTech platform. Decoupled core services to handle high-concurrency traffic and implemented \textbf{OpenTelemetry (OTel)} for full-stack instrumentation (logs, traces, metrics), reducing MTTR by providing deep visibility into distributed worker bottlenecks.}
+        
+        \resumeItem{Cloud FinOps \& Cost Engineering}
+          {Achieved a \textbf{20\% reduction in cloud OpEx} by optimizing Kubernetes compute strategies. Engineered specialized Node Groups utilizing \textbf{Spot Instances} and implemented \textbf{scale-to-zero logic} for memory-intensive background tasks and cron jobs, ensuring high performance while minimizing idle resource waste.}
+
+        \resumeItem{Product Engineering (EasyDash / EasyEngine)}
+          {Co-developed a high-scale \textbf{Cloud Provisioning Engine} for \textbf{dash.easyengine.io} using \textbf{Python, Terraform, and Ansible}. Engineered the automated backend for rapid WordPress/PHP deployments, facilitating a successful market launch that generated \$200+ in initial subscription revenue within 60 days.}
+
+        \resumeItem{Automation \& Developer Experience}
+          {Optimized \textbf{GitHub Self-Hosted Runners} with resource-aware labeling and multi-container environments, drastically reducing CI/CD wait times. }
       \resumeItemListEnd
+
+  \vspace{2pt}
+
+  % \resumeSubheading{kubmin -- ksctl}{Remote}
+  % {Founder \& Principal Engineer}{Jun 2025 -- Present}
+  % \resumeItemListStart
+  %   \resumeItem{System Design}{Architected Go-based stateless service which can share horizontally which is bascked by SQLite (Turso), Redis caching, Rate Limiting, and NATS messaging for event based system, thus enabling cluster's workload lifecycle management across AWS, Azure, and GCP.}
+  %   \resumeItem{Asynchronous Task Processing}{Built event-driven worker system with NATS messaging for long-running cluster operations, improving API responsiveness and enabling horizontal scalability. In Process got to create custom Statemachine for handling complex workflows from retry logic to what all errors can be retried with exploiting NAK and ACK mechanism.}
+  %   \resumeItem{Enterprise RBAC \& Quota System}{Implemented role-based access control with Authzed and multi-tenant quota enforcement for workload management across organization hierarchies.}
+  %   \resumeItem{Full-Stack Platform}{Developed Next.js (App Router) SaaS frontend with TypeScript, Tailwind CSS, and shadcn/ui, featuring real-time monitoring and developer-centric UI.}
+  %   \resumeItem{Agentic Workflows}{Leveraging Claude Code and Gemini CLI models to build autonomous agents during development phase of this paltform to help developers with higher velocity and less cognitive load.}
+  %   \resumeItem{Website}{\href{https://ksctl.com/product/kubmin/}{Link to Detailed view}}
+  % \resumeItemListEnd
+\resumeSubheading{kubmin -- ksctl}{Remote}
+  {Founder \& Principal Engineer}{Jun 2025 -- Present}
+  \resumeItemListStart
+    \resumeItem{Distributed Orchestration Engine}
+      {Architected a cloud-agnostic provisioning engine in \textbf{Go} to manage Kubernetes lifecycles across AWS, Azure. Engineered a high-availability state layer using \textbf{Turso (Edge SQLite)} and \textbf{Redis}, enabling idempotent cluster operations with a minimal infrastructure footprint.}
+    
+    \resumeItem{Pragmatic Task Orchestration}
+      {Developed a lightweight, event-driven \textbf{state machine} using \textbf{NATS JetStream}. Optimized for operational simplicity over heavy frameworks like Temporal, implementing custom NAK/ACK and retry logic to ensure 100\% reliability during long-running infrastructure tasks.}
+    
+    \resumeItem{Scalable Access Governance (ReBAC)}
+      {Implemented a \textbf{Relationship-Based Access Control} system using \textbf{Authzed (SpiceDB)}. Designed a hierarchical sharing model (Org, Cluster, Workload) to handle complex multi-tenant permissions and quota enforcement across distributed engineering teams.}
+
+    \resumeItem{Developer Efficiency Analytics}
+      {Designed an engine to track \textbf{container image behavior across versions}, providing developers with data-driven insights into performance and energy regressions. Enabled teams to baseline and optimize software efficiency within the Kubernetes deployment pipeline.}
+    
+    \resumeItem{AI-Augmented Engineering}
+      {Integrated \textbf{Claude Code and Gemini CLI} into the platform development workflow. Leveraged AI-agentic patterns to accelerate platform delivery by 40\% while maintaining high code quality and consistency.}
+    \resumeItem{Website}{\href{https://ksctl.com/product/kubmin/}{Link to Detailed view}}
+  \resumeItemListEnd
 
   \vspace{2pt}
     \resumeSubheading{Viamagus}{Remote}
     {DevMLSecOps Consultant POC (Freelance)}{Feb 2025 -- Apr 2025}
     \resumeItemListStart
-      \resumeItem{OWASP ZAP}{Designed and deployed as a proxy-based security testing solution. For their QA team}
-      \resumeItem{Snyk}{Integrated Snyk into CI pipelines for vulnerability scanning.}
-      \resumeItem{AI}{Optimized internal LLM-based projects: containerization, network/disk performance.}
+      \resumeItem{Integrating vulnerabilities finder inside their CI}{used OWASP ZAP to help the team find bugs in their APIs like SQL injection, man-in-middle attacks for their web applications and APIs}
+      \resumeItem{Integrating Snyk into their Code Review Pipeline}{into their CI pipelines for vulnerability scanning.}
+      \resumeItem{Optimized internal LLM-based projects}{Helped containerization and even created resport on what are the real benchmarks interms of image size, network/disk performance.}
       \resumeItem{Deploying OSS LLM Models}{Deployed vLLM and ollama with AWS Auto Scaling Groups and VPC PrivateLink infrastructure.}
-    \resumeItemListEnd
-
-  \vspace{2pt}
-    \resumeSubheading{Viamagus}{Remote}
-    {DevOps POC (Intern)}{Feb 2023 - Sep 2023}
-    \resumeItemListStart
-        \resumeItem{Automate Build and Publish for React-Native app on Android \& iOS}
-          {automate staging environment to build and deploy them to Android, iOS}
-        \resumeItem{Snyk Integration in Jenkins Jobs}{Addition of snyk for vulnerability scan and send the report through emails}
-        \resumeItem{Kubernetes to manage containers}{EKS, AKS, K8s Gateway API}
     \resumeItemListEnd
 
 \vspace{2pt}
     \resumeSubheading
-		{Open Source}{Remote}
+		{Open Source Contributions}{Remote}
 		{Self-Employed (Part-time) worked on Rust, Go, JavaScript, CI/CD Pipelines, Documentation}{Feb 2022 -  Present}
 		\resumeItemListStart
         \resumeItem{For Detailed view}{\href{https://dipankar-das.com/posts/projects/\#my-open-source-contributions}{Link to Detailed view}}
 		\resumeItemListEnd
-      
+
 \vspace{2pt}
 \resumeSubHeadingListEnd
 
@@ -159,8 +185,8 @@
 \section{Projects \href{https://dipankar-das.com/posts/projects/\#my-project-collection}{Detailed view}}
 \resumeSubHeadingListStart
 
-\resumeSubheading{Ksctl - \href{https://ksctl.com}{Github Link}}{Cloud Agnostic Kubernetes management tool}
-    {Founder \& Lead Developer}{Sep 2022 - Present}
+\resumeSubheading{KsctlCli - \href{https://ksctl.com/product/ksctlcli/}{Github Link}}{Cloud Agnostic Kubernetes management tool}
+    {Founder \& Lead Developer}{Sep 2022 - Sep 2025}
     \begin{description}[font=$\bullet$]
         \item {A Generic Kubernetes Management CLI tool for various cloud providers}
         \item {Worked with NATS and event-driven patterns in internal tools.}
