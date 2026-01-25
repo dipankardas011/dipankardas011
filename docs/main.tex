@@ -89,7 +89,7 @@
 %-----------PROFESSIONAL SUMMARY-----------------
 \section{Professional Summary}
 \vspace{5pt}
-\small{Systems-focused DevOps Engineer with 2+ years of experience specializing in cloud-native architecture, infrastructure modernization, and high-concurrency distributed systems. Architected multi-cloud orchestration engines in \textbf{Go} and led zero-downtime migrations for \textbf{Fortune 500} and \textbf{FinTech} enterprises. Proven track record in optimizing cloud spend by \textbf{20\%} via advanced FinOps strategies and enhancing reliability through \textbf{OpenTelemetry}. Founder of the \textbf{ksctl} ecosystem, dedicated to building developer-centric efficiency tools and scalable multi-cloud infrastructure.}
+\small{Systems-focused DevOps Engineer with 2+ years of experience specializing in cloud-native architecture, infrastructure modernization, and high-concurrency distributed systems. Architected multi-cloud orchestration engines in \textbf{Go} and led zero-downtime migrations for \textbf{Fortune 500} and \textbf{FinTech} enterprises. Proven track record in optimizing cloud spending by \textbf{20\%} via advanced FinOps strategies and enhancing reliability through \textbf{OpenTelemetry}. Founder of the \textbf{ksctl}, dedicated to building developer-centric efficiency tools and scalable, efficient multi-cloud infrastructure.
 \vspace{5pt}
 
 
@@ -110,7 +110,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading{rtCamp}{Pune, India}
     {DevOps Engineer}{Jan 2024 - Present}
-  \resumeItemListStart
+    \resumeItemListStart
         \resumeItem{Enterprise IaC \& Migration (Cox Automotive)}
           {Spearheaded a zero-downtime migration of legacy AWS infrastructure into \textbf{Terraform}. Remediated critical gaps by importing manually managed \textbf{CloudFront} distributions, \textbf{S3} assets, and \textbf{WAF} policies into a standardized multi-environment GitOps workflow, ensuring 100\% configuration consistency and eliminating "Click-ops". Had a rigorous \textbf{Plan-Review-Apply} SOP for infrastructure changes, ensuring zero configuration drift across multi-cloud production environments.}
         
@@ -129,17 +129,7 @@
 
   \vspace{2pt}
 
-  % \resumeSubheading{kubmin -- ksctl}{Remote}
-  % {Founder \& Principal Engineer}{Jun 2025 -- Present}
-  % \resumeItemListStart
-  %   \resumeItem{System Design}{Architected Go-based stateless service which can share horizontally which is bascked by SQLite (Turso), Redis caching, Rate Limiting, and NATS messaging for event based system, thus enabling cluster's workload lifecycle management across AWS, Azure, and GCP.}
-  %   \resumeItem{Asynchronous Task Processing}{Built event-driven worker system with NATS messaging for long-running cluster operations, improving API responsiveness and enabling horizontal scalability. In Process got to create custom Statemachine for handling complex workflows from retry logic to what all errors can be retried with exploiting NAK and ACK mechanism.}
-  %   \resumeItem{Enterprise RBAC \& Quota System}{Implemented role-based access control with Authzed and multi-tenant quota enforcement for workload management across organization hierarchies.}
-  %   \resumeItem{Full-Stack Platform}{Developed Next.js (App Router) SaaS frontend with TypeScript, Tailwind CSS, and shadcn/ui, featuring real-time monitoring and developer-centric UI.}
-  %   \resumeItem{Agentic Workflows}{Leveraging Claude Code and Gemini CLI models to build autonomous agents during development phase of this paltform to help developers with higher velocity and less cognitive load.}
-  %   \resumeItem{Website}{\href{https://ksctl.com/product/kubmin/}{Link to Detailed view}}
-  % \resumeItemListEnd
-\resumeSubheading{kubmin -- ksctl}{Remote}
+  \resumeSubheading{kubmin -- ksctl}{Remote}
   {Founder \& Principal Engineer}{Jun 2025 -- Present}
   \resumeItemListStart
     \resumeItem{Distributed Orchestration Engine}
@@ -157,6 +147,20 @@
     \resumeItem{AI-Augmented Engineering}
       {Integrated \textbf{Claude Code and Gemini CLI} into the platform development workflow. Leveraged AI-agentic patterns to accelerate platform delivery by 40\% while maintaining high code quality and consistency.}
     \resumeItem{Website}{\href{https://ksctl.com/product/kubmin/}{Link to Detailed view}}
+  \resumeItemListEnd
+
+  \vspace{2pt}
+  \resumeSubheading{kli -- ksctl}{Remote}
+  {OSS Maintainer}{Sep 2022 -- Present}
+  \resumeItemListStart
+    \resumeItem{Cloud Agnostic Orchestration}
+      {Developed a generic Kubernetes management CLI tool supporting multiple cloud providers (AWS, Azure, Civo, GCP).}
+    \resumeItem{Core Integrations}
+      {Integrated robust state management using Go, and containerization using MongoDB, Docker, and Kubernetes APIs.}
+    \resumeItem{Tech Stack}
+      {Go, Kubernetes, AWS, Azure, Civo, Docker, Cosign, System Design}
+    \resumeItem{Website}
+      {\href{https://ksctl.com/product/kli/}{Link to Detailed view}}
   \resumeItemListEnd
 
   \vspace{2pt}
@@ -184,15 +188,6 @@
 \vspace{-5pt}
 \section{Projects \href{https://dipankar-das.com/posts/projects/\#my-project-collection}{Detailed view}}
 \resumeSubHeadingListStart
-
-\resumeSubheading{KsctlCli - \href{https://ksctl.com/product/ksctlcli/}{Github Link}}{Cloud Agnostic Kubernetes management tool}
-    {Founder \& Lead Developer}{Sep 2022 - Sep 2025}
-    \begin{description}[font=$\bullet$]
-        \item {A Generic Kubernetes Management CLI tool for various cloud providers}
-        \item {Worked with NATS and event-driven patterns in internal tools.}
-        \item {Integrated with MongoDB, SQLite (Turso), Docker, and Kubernetes APIs.}
-        \item {Tech: Go, Kubernetes, AWS, Azure, Civo, GCP, Docker, Cosign, System Design}
-    \end{description}
 
 \resumeSubheading{WAE - WASI App Experiment - {\href{https://dipankar-das.com/posts/projects/#wae-wasi-app-experiment}{Link}}}{AI and WASM}
     {Creator and Maintainer, Wattime, OpenAI, WASM}{Jul 2024 - Aug 2024}
