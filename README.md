@@ -48,7 +48,7 @@
   <a href="mailto:outlook@dipankar-das.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCoLkuTgWPsQSeh0BhDFgXVw">
+  <a href="https://www.youtube.com/@techwithdipankardas">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
