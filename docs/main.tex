@@ -89,7 +89,7 @@
 %-----------PROFESSIONAL SUMMARY-----------------
 \section{Professional Summary}
 \vspace{5pt}
-\small{Systems-focused DevOps Engineer with 2+ years of experience specializing in cloud-native architecture, infrastructure modernization, and high-concurrency distributed systems. Architected multi-cloud orchestration engines in \textbf{Go} and led zero-downtime migrations for \textbf{Fortune 500} and \textbf{FinTech} enterprises. Proven track record in optimizing cloud spending by \textbf{20\%} via advanced FinOps strategies and enhancing reliability through \textbf{OpenTelemetry}. Founder of the \textbf{ksctl}, dedicated to building developer-centric efficiency tools and scalable, efficient multi-cloud infrastructure.
+\small{Systems-focused DevOps Engineer with \textbf{3+ years of experience} in cloud-native architecture, infrastructure-as-code, and production reliability engineering. Led zero-downtime IaC migrations for \textbf{Fortune 500} enterprises, reducing cloud OpEx by \textbf{20\%} through FinOps strategies and scale-to-zero compute. Architected observability stacks with \textbf{OpenTelemetry} and drove incident response improvements across distributed \textbf{Kubernetes} platforms. Founder of \textbf{ksctl}, building developer-centric multi-cloud orchestration tools in \textbf{Go}. Experienced in CI/CD pipeline engineering, CDN/edge infrastructure, and integrating AI-assisted tooling into DevOps workflows.
 \vspace{5pt}
 
 
@@ -97,10 +97,11 @@
 \section{Skills Summary}
 	\resumeSubHeadingListStart
         \resumeSubItem{Languages}{~~~~~~Go, C, Python, Rust, Java, JavaScript, C++}
-        \resumeSubItem{Tools}{~~~~~~~~~~~~~~Kubernetes, Docker, MongoDB, MariaDB, NATS, Redis, Jenkins, Ansible, Terraform, Vault}
-        \resumeSubItem{Concepts}{~~~~~~~~Event-driven systems, CQRS, DDD, Event Sourcing (familiar)}
-        \resumeSubItem{Platforms}{~~~~~~~AWS, Azure, Hetzner, GCP, Linux}
-        \resumeSubItem{Soft Skills}{~~~~~~~Project Maintainer, Planing, Tech. Writing, Time Management and Automating things}
+        \resumeSubItem{IaC \& Config}{~~~~Terraform, CloudFormation, Ansible, Helm, Vault}
+        \resumeSubItem{CI/CD \& Tools}{~~GitHub Actions, Jenkins, Docker, Cosign, GitOps workflows}
+        \resumeSubItem{Infra \& Cloud}{~~~Kubernetes, AWS (EC2, S3, CloudFront, WAF, VPC), Azure, GCP, Linux}
+        \resumeSubItem{Observability}{~~~OpenTelemetry, Prometheus, Grafana, distributed tracing}
+        \resumeSubItem{Networking}{~~~~~~CDN, DNS, Cloudflare (familiar), edge security, NATS, Redis, MongoDB}
     \resumeSubHeadingListEnd
 \vspace{-5pt}
 
@@ -112,10 +113,10 @@
     {DevOps Engineer}{Jan 2024 - Present}
     \resumeItemListStart
         \resumeItem{Enterprise IaC \& Migration (Cox Automotive)}
-          {Spearheaded a zero-downtime migration of legacy AWS infrastructure into \textbf{Terraform}. Remediated critical gaps by importing manually managed \textbf{CloudFront} distributions, \textbf{S3} assets, and \textbf{WAF} policies into a standardized multi-environment GitOps workflow, ensuring 100\% configuration consistency and eliminating "Click-ops". Had a rigorous \textbf{Plan-Review-Apply} SOP for infrastructure changes, ensuring zero configuration drift across multi-cloud production environments.}
+          {Spearheaded a zero-downtime migration of legacy AWS infrastructure into \textbf{Terraform}. Imported manually managed \textbf{CloudFront/CDN} distributions, \textbf{S3} assets, \textbf{DNS records}, and \textbf{WAF/edge security} policies into a standardized multi-environment GitOps workflow, ensuring 100\% configuration consistency. Established a rigorous \textbf{Plan-Review-Apply} SOP with runbook documentation, eliminating configuration drift and ``Click-ops'' across production environments.}
         
         \resumeItem{Cloud-Native Scaling \& Observability}
-          {Architected the migration of a monolithic \textbf{Frappe/ERPNext} platform to a distributed \textbf{Kubernetes} cluster for a global FinTech platform. Decoupled core services to handle high-concurrency traffic and implemented \textbf{OpenTelemetry (OTel)} for full-stack instrumentation (logs, traces, metrics), reducing MTTR by providing deep visibility into distributed worker bottlenecks.}
+          {Architected the migration of a monolithic \textbf{Frappe/ERPNext} platform to a distributed \textbf{Kubernetes} cluster for a global FinTech SaaS platform. Decoupled core services to handle high-concurrency traffic and implemented \textbf{OpenTelemetry} for full-stack instrumentation (logs, traces, metrics via \textbf{Prometheus/Grafana}), reducing MTTR. Led incident response and post-incident reviews, translating findings into systemic reliability improvements.}
         
         \resumeItem{Cloud FinOps \& Cost Engineering}
           {Achieved a \textbf{20\% reduction in cloud OpEx} by optimizing Kubernetes compute strategies. Engineered specialized Node Groups utilizing \textbf{Spot Instances} and implemented \textbf{scale-to-zero logic} for memory-intensive background tasks and cron jobs, ensuring high performance while minimizing idle resource waste.}
@@ -123,8 +124,8 @@
         \resumeItem{Product Engineering (EasyDash / EasyEngine)}
           {Co-developed a high-scale \textbf{Cloud Provisioning Engine} for \textbf{dash.easyengine.io} using \textbf{Python, Terraform, and Ansible}. Engineered the automated backend for rapid WordPress/PHP deployments, facilitating a successful market launch that generated \$200+ in initial subscription revenue within 60 days.}
 
-        \resumeItem{Automation \& Developer Experience}
-          {Optimized \textbf{GitHub Self-Hosted Runners} with resource-aware labeling and multi-container environments, drastically reducing CI/CD wait times. }
+        \resumeItem{CI/CD Pipeline Engineering \& Developer Experience}
+          {Designed and maintained \textbf{CI/CD pipelines} using \textbf{GitHub Actions} with self-hosted runners, resource-aware labeling, and multi-container environments, drastically reducing build/deploy cycle times and increasing deployment confidence across teams.}
       \resumeItemListEnd
 
   \vspace{2pt}
@@ -141,8 +142,8 @@
     \resumeItem{Scalable Access Governance (ReBAC)}
       {Implemented a \textbf{Relationship-Based Access Control} system using \textbf{Authzed (SpiceDB)}. Designed a hierarchical sharing model (Org, Cluster, Workload) to handle complex multi-tenant permissions and quota enforcement across distributed engineering teams.}
 
-    \resumeItem{Developer Efficiency Analytics}
-      {Designed an engine to track \textbf{container image behavior across versions}, providing developers with data-driven insights into performance and energy regressions. Enabled teams to baseline and optimize software efficiency within the Kubernetes deployment pipeline.}
+    \resumeItem{Workload Intelligence}
+      {Built an engine to analyze workload behavior across deployments, tracking cost, resource efficiency, and I/O patterns per workload. Gives teams visibility into what each workload actually costs in money and compute -- closing the blind spot between shipping fast and understanding what it costs.}
     
     \resumeItem{AI-Augmented Engineering}
       {Integrated \textbf{Claude Code and Gemini CLI} into the platform development workflow. Leveraged AI-agentic patterns to accelerate platform delivery by 40\% while maintaining high code quality and consistency.}
@@ -172,10 +173,12 @@
     \resumeSubheading{Viamagus}{Remote}
     {DevMLSecOps Consultant POC (Freelance)}{Feb 2025 -- Apr 2025}
     \resumeItemListStart
-      \resumeItem{Integrating vulnerabilities finder inside their CI}{used OWASP ZAP to help the team find bugs in their APIs like SQL injection, man-in-middle attacks for their web applications and APIs}
-      \resumeItem{Integrating Snyk into their Code Review Pipeline}{into their CI pipelines for vulnerability scanning.}
-      \resumeItem{Optimized internal LLM-based projects}{Helped containerization and even created resport on what are the real benchmarks interms of image size, network/disk performance.}
-      \resumeItem{Deploying OSS LLM Models}{Deployed vLLM and ollama with AWS Auto Scaling Groups and VPC PrivateLink infrastructure.}
+      \resumeItem{Security Pipeline Integration}
+        {Integrated \textbf{OWASP ZAP} and \textbf{Snyk} into CI pipelines for automated vulnerability scanning across web applications and APIs, catching SQL injection and MITM attack vectors pre-deployment.}
+      \resumeItem{Container Optimization \& Benchmarking}
+        {Containerized internal LLM-based projects and produced benchmarks on image size, network/disk I/O performance to guide infrastructure decisions.}
+      \resumeItem{LLM Infrastructure}
+        {Deployed \textbf{vLLM} and \textbf{Ollama} on AWS with \textbf{Auto Scaling Groups} and \textbf{VPC PrivateLink}, enabling secure, scalable inference serving.}
     \resumeItemListEnd
 
 \vspace{2pt}
@@ -191,10 +194,17 @@
 
 %-----------PROJECTS-----------------
 \vspace{-5pt}
-\section{Projects \href{https://dipankar-das.com/posts/projects/\#my-project-collection}{Detailed view}}
+\section{Projects \href{https://dipankar-das.com/projects/}{Detailed view}}
 \resumeSubHeadingListStart
 
-\resumeSubheading{WAE - WASI App Experiment - {\href{https://dipankar-das.com/posts/projects/#wae-wasi-app-experiment}{Link}}}{AI and WASM}
+\resumeSubheading{AI Agents Skill Library - {\href{https://dipankar-das.com/skills}{Link}}}{AI Agents}
+    {Creator}{2025}
+    \begin{description}[font=$\bullet$]
+        \item {Built a modular skill library for AI agents, enabling composable capability reuse across agent architectures.}
+    \end{description}
+
+
+\resumeSubheading{WAE - WASI App Experiment - {\href{https://github.com/dipankardas011/wae}{Link}}}{AI and WASM}
     {Creator and Maintainer, Wattime, OpenAI, WASM}{Jul 2024 - Aug 2024}
     \begin{description}[font=$\bullet$]
         \item {Built a modular WebAssembly (WASI) app using multiple language runtimes for end-to-end automation.}
@@ -203,7 +213,7 @@
         \item {Tech: Rust, WASM, Python, OpenAI, WattTime, GitHub API}
     \end{description}
 
-\resumeSubheading{Chat bot - {\href{https://dipankar-das.com/posts/projects/\#chat-bot-using-gpt-2}{Link}}}{LLM and WASM}
+\resumeSubheading{Chat bot - {\href{https://dipankar-das.com/posts/projects/}{Link}}}{LLM and WASM}
     {Creator \& Maintainer, Transformer, WASM}{Jun 2023 - Jul 2023}
     \begin{description}[font=$\bullet$]
         \item {Create HTTP server using rust as a wasm module and have it to handle request for the text2text generator machine learning model running on huggingface}
@@ -217,7 +227,7 @@
 
 \section{Certificates}
 \begin{description}[font=$\bullet$]
-\item {All certificates and badges \href{https://dipankar-das.com/posts/aboutme/#certificates-and-badges}{certificates}}
+\item {All certificates and badges \href{https://dipankar-das.com/services/}{certificates}}
 
 \end{description}
 
@@ -257,4 +267,5 @@
 \resumeSubHeadingListEnd
 
 \end{document}
+
 
